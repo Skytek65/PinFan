@@ -1,0 +1,12 @@
+# iOS App & Xcode Project
+PinFan/
+*.xcodeproj/
+*.xcworkspace/
+DerivedData/
+build/
+
+# Logs & temp scratch files
+*.log
+*.har
+*.html
+.DS_Store
