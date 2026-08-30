@@ -1,8 +1,8 @@
 {
-  "version": 1787976222,
-  "last_updated": "2026-08-29T04:03:42Z",
+  "version": 1788062616,
+  "last_updated": "2026-08-30T04:03:36Z",
   "machine_count": 3201,
   "db_filename": "pinside_database.db",
   "file_size_bytes": 2838528,
-  "sha256": "9e4dd8afe7290dd12debff17dc0d9dad70603bd5530a40c69e444fd30a8164af"
+  "sha256": "71bfff2e3ebfccbd3cd4cf559499c43ad000a109160104c11fc43dc9c137aaae"
 }
