@@ -59,6 +59,12 @@ Welcome to PinFan — your neon arcade companion.
 Flip on. Dig in. Chase that high score.
 ```
 
+
+## Privacy Policy URL
+```
+https://skytek65.github.io/PinFan/privacy.html
+```
+
 ## Screenshots
 
 Upload in this order from `AppStore/screenshots/` (6.7" / iPhone 17 Pro Max simulator, 1320 × 2868). The same files are mirrored for the marketing site at `docs/assets/screenshots/`.
