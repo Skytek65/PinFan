@@ -1,12 +1,15 @@
-# iOS App & Xcode Project
+# iOS App & Xcode Project (keep local — never publish)
 PinFan/
 *.xcodeproj/
 *.xcworkspace/
 DerivedData/
 build/
+*.xcuserstate
 
 # Logs & temp scratch files
 *.log
 *.har
-*.html
 .DS_Store
+
+# Root HTML scrapes (marketing site lives under docs/)
+/*.html
