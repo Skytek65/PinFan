@@ -99,6 +99,15 @@ def main():
         machine_comments TEXT,
         image_sha1 TEXT,
         image_rel_path TEXT,
+        image_high_res TEXT,
+        playfield_image_url TEXT,
+        cabinet_image_url TEXT,
+        rules_sheet_url TEXT,
+        opdb_id TEXT,
+        designer_name TEXT,
+        artist_name TEXT,
+        software_name TEXT,
+        sound_name TEXT,
         is_favorite INTEGER DEFAULT 0,
         is_owned INTEGER DEFAULT 0,
         personal_notes TEXT DEFAULT '',
@@ -115,7 +124,9 @@ def main():
         score_value INTEGER,
         player_initials TEXT,
         score_date TEXT,
-        notes TEXT
+        notes TEXT,
+        location TEXT DEFAULT '',
+        ball_count INTEGER DEFAULT 3
     )
     """)
     
@@ -132,7 +143,9 @@ def main():
         "machine_magnets", "machine_players", "machine_buyin", "machine_miniorbits",
         "machine_customspeech", "machine_spindiscs", "machine_kickback", "machine_shakermotor",
         "machine_playfieldlevels", "machine_spinners", "machine_retheme", "machine_ornament",
-        "machine_toys", "machine_slogans", "machine_comments", "image_sha1", "image_rel_path"
+        "machine_toys", "machine_slogans", "machine_comments", "image_sha1", "image_rel_path",
+        "image_high_res", "playfield_image_url", "cabinet_image_url", "rules_sheet_url",
+        "opdb_id", "designer_name", "artist_name", "software_name", "sound_name"
     ]
     
     all_columns = base_columns + ["is_favorite", "is_owned", "personal_notes", "base_name", "edition_name"]

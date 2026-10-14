@@ -13,3 +13,8 @@ build/
 
 # Root HTML scrapes (marketing site lives under docs/)
 /*.html
+
+# Python & Data Cache
+__pycache__/
+*.pyc
+opdb-v2.json

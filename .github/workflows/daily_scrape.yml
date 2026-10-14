@@ -27,6 +27,10 @@ jobs:
         run: |
           python extract_full_database.py
           
+      - name: Enrich Database with High-Res Artwork & Metadata
+        run: |
+          python enrich_database.py
+          
       - name: Convert to SQLite & Generate version.json
         run: |
           python convert_to_sqlite.py
