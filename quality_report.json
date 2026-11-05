@@ -1,0 +1,7293 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-11-05T19:29:06.939599+00:00",
+  "overall": {
+    "machines": 3216,
+    "fields": {
+      "designer_name": 1934,
+      "artist_name": 1836,
+      "software_name": 701,
+      "sound_name": 631,
+      "machine_credits": 2155,
+      "machine_system": 2232,
+      "machine_msrp": 217,
+      "machine_version": 371,
+      "machine_toys": 751,
+      "machine_comments": 805,
+      "machine_tags": 1508,
+      "machine_resources": 1046,
+      "rules_sheet_url": 86,
+      "image_high_res": 1662
+    }
+  },
+  "by_manufacturer": {
+    "86Pixels": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 1,
+        "artist_name": 0,
+        "software_name": 1,
+        "sound_name": 0,
+        "machine_credits": 1,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 1,
+        "machine_comments": 0,
+        "machine_tags": 1,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "A. J. Stephens ": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "A.A. Amusements": {
+      "machines": 4,
+      "fields": {
+        "designer_name": 1,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 1,
+        "machine_system": 0,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 3,
+        "machine_comments": 2,
+        "machine_tags": 1,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 1
+      }
+    },
+    "A.B.T.": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "A.M.I.": {
+      "machines": 8,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 6,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 6,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 1,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 5
+      }
+    },
+    "Achille et Chalvignac": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 1,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 1,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 1,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Ad-Lee": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Alben": {
+      "machines": 2,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 2,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 1
+      }
+    },
+    "Allcoin": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 0,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Allied Leisure": {
+      "machines": 15,
+      "fields": {
+        "designer_name": 11,
+        "artist_name": 10,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 11,
+        "machine_system": 3,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 3,
+        "machine_comments": 7,
+        "machine_tags": 9,
+        "machine_resources": 2,
+        "rules_sheet_url": 0,
+        "image_high_res": 14
+      }
+    },
+    "Alvin G. & Co": {
+      "machines": 14,
+      "fields": {
+        "designer_name": 10,
+        "artist_name": 10,
+        "software_name": 9,
+        "sound_name": 9,
+        "machine_credits": 13,
+        "machine_system": 3,
+        "machine_msrp": 1,
+        "machine_version": 0,
+        "machine_toys": 5,
+        "machine_comments": 5,
+        "machine_tags": 12,
+        "machine_resources": 3,
+        "rules_sheet_url": 0,
+        "image_high_res": 7
+      }
+    },
+    "American Pinball": {
+      "machines": 13,
+      "fields": {
+        "designer_name": 11,
+        "artist_name": 11,
+        "software_name": 11,
+        "sound_name": 11,
+        "machine_credits": 11,
+        "machine_system": 13,
+        "machine_msrp": 8,
+        "machine_version": 7,
+        "machine_toys": 5,
+        "machine_comments": 1,
+        "machine_tags": 11,
+        "machine_resources": 2,
+        "rules_sheet_url": 2,
+        "image_high_res": 2
+      }
+    },
+    "Amusement Co.": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Angel Montano": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 1,
+        "artist_name": 0,
+        "software_name": 1,
+        "sound_name": 0,
+        "machine_credits": 1,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 1,
+        "machine_toys": 1,
+        "machine_comments": 0,
+        "machine_tags": 1,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Apple Time": {
+      "machines": 2,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 2,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 2,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 1,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 1
+      }
+    },
+    "Arkon": {
+      "machines": 3,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 2,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 2,
+        "machine_system": 0,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 2,
+        "machine_comments": 2,
+        "machine_tags": 3,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Assa": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 1,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 1,
+        "machine_system": 0,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 1,
+        "machine_comments": 1,
+        "machine_tags": 1,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Astro Games": {
+      "machines": 2,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 1,
+        "machine_comments": 0,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 1
+      }
+    },
+    "Atari": {
+      "machines": 15,
+      "fields": {
+        "designer_name": 11,
+        "artist_name": 9,
+        "software_name": 5,
+        "sound_name": 3,
+        "machine_credits": 12,
+        "machine_system": 3,
+        "machine_msrp": 1,
+        "machine_version": 0,
+        "machine_toys": 3,
+        "machine_comments": 8,
+        "machine_tags": 6,
+        "machine_resources": 6,
+        "rules_sheet_url": 0,
+        "image_high_res": 10
+      }
+    },
+    "Automatic Industries": {
+      "machines": 2,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 2,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Automaticos": {
+      "machines": 26,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 26,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 1,
+        "machine_comments": 0,
+        "machine_tags": 2,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "B. Holderman": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 1,
+        "artist_name": 1,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 1,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "BEM": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Baker Novelty": {
+      "machines": 3,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 3,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 2,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Bally": {
+      "machines": 431,
+      "fields": {
+        "designer_name": 279,
+        "artist_name": 215,
+        "software_name": 91,
+        "sound_name": 59,
+        "machine_credits": 288,
+        "machine_system": 301,
+        "machine_msrp": 4,
+        "machine_version": 28,
+        "machine_toys": 139,
+        "machine_comments": 126,
+        "machine_tags": 199,
+        "machine_resources": 180,
+        "rules_sheet_url": 0,
+        "image_high_res": 192
+      }
+    },
+    "Bally Wuff": {
+      "machines": 9,
+      "fields": {
+        "designer_name": 6,
+        "artist_name": 9,
+        "software_name": 6,
+        "sound_name": 1,
+        "machine_credits": 9,
+        "machine_system": 7,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 1,
+        "machine_comments": 2,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Bandai Namco": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Barni": {
+      "machines": 3,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 0,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 1,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 1
+      }
+    },
+    "Barrels of Fun": {
+      "machines": 4,
+      "fields": {
+        "designer_name": 4,
+        "artist_name": 4,
+        "software_name": 4,
+        "sound_name": 3,
+        "machine_credits": 4,
+        "machine_system": 4,
+        "machine_msrp": 3,
+        "machine_version": 4,
+        "machine_toys": 4,
+        "machine_comments": 3,
+        "machine_tags": 3,
+        "machine_resources": 3,
+        "rules_sheet_url": 3,
+        "image_high_res": 3
+      }
+    },
+    "Bell Coin Matic": {
+      "machines": 4,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 3,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 3,
+        "machine_system": 0,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 1,
+        "machine_tags": 2,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Bell Games": {
+      "machines": 24,
+      "fields": {
+        "designer_name": 12,
+        "artist_name": 9,
+        "software_name": 5,
+        "sound_name": 2,
+        "machine_credits": 15,
+        "machine_system": 2,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 4,
+        "machine_comments": 14,
+        "machine_tags": 5,
+        "machine_resources": 3,
+        "rules_sheet_url": 0,
+        "image_high_res": 10
+      }
+    },
+    "Benchmark": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Betco Products": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 1,
+        "machine_comments": 0,
+        "machine_tags": 1,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Bill Port": {
+      "machines": 2,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 1,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Bingo Novelty": {
+      "machines": 3,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 3,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Bob Nies": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 1,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 1,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Briarwood": {
+      "machines": 6,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 5,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 1,
+        "machine_comments": 1,
+        "machine_tags": 1,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Bromley": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 1,
+        "software_name": 0,
+        "sound_name": 1,
+        "machine_credits": 1,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Brunswick": {
+      "machines": 6,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 1,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 1,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 4,
+        "machine_comments": 4,
+        "machine_tags": 2,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Buckley": {
+      "machines": 2,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 2,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "BuffyPinball": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 1,
+        "artist_name": 1,
+        "software_name": 1,
+        "sound_name": 1,
+        "machine_credits": 1,
+        "machine_system": 1,
+        "machine_msrp": 1,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 1,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Bumper Amusements": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "C.E.A.": {
+      "machines": 6,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 4,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 4,
+        "machine_system": 0,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 1,
+        "machine_tags": 1,
+        "machine_resources": 1,
+        "rules_sheet_url": 0,
+        "image_high_res": 5
+      }
+    },
+    "COA ": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 1,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 1,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "CPR": {
+      "machines": 4,
+      "fields": {
+        "designer_name": 4,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 4,
+        "machine_system": 4,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "California Exhibit": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "California Games": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Capcom": {
+      "machines": 8,
+      "fields": {
+        "designer_name": 8,
+        "artist_name": 6,
+        "software_name": 6,
+        "sound_name": 6,
+        "machine_credits": 8,
+        "machine_system": 1,
+        "machine_msrp": 2,
+        "machine_version": 2,
+        "machine_toys": 6,
+        "machine_comments": 8,
+        "machine_tags": 8,
+        "machine_resources": 5,
+        "rules_sheet_url": 1,
+        "image_high_res": 6
+      }
+    },
+    "Cardona Pinball Designs": {
+      "machines": 3,
+      "fields": {
+        "designer_name": 1,
+        "artist_name": 2,
+        "software_name": 3,
+        "sound_name": 2,
+        "machine_credits": 3,
+        "machine_system": 3,
+        "machine_msrp": 2,
+        "machine_version": 2,
+        "machine_toys": 2,
+        "machine_comments": 0,
+        "machine_tags": 1,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Centralmatic": {
+      "machines": 3,
+      "fields": {
+        "designer_name": 2,
+        "artist_name": 2,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 2,
+        "machine_system": 3,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 1,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Centromatic": {
+      "machines": 4,
+      "fields": {
+        "designer_name": 2,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 2,
+        "machine_system": 3,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 1,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Chicago Coin": {
+      "machines": 96,
+      "fields": {
+        "designer_name": 46,
+        "artist_name": 48,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 54,
+        "machine_system": 93,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 8,
+        "machine_comments": 12,
+        "machine_tags": 44,
+        "machine_resources": 28,
+        "rules_sheet_url": 0,
+        "image_high_res": 59
+      }
+    },
+    "Chicago Gaming Co.": {
+      "machines": 18,
+      "fields": {
+        "designer_name": 18,
+        "artist_name": 18,
+        "software_name": 10,
+        "sound_name": 3,
+        "machine_credits": 18,
+        "machine_system": 17,
+        "machine_msrp": 7,
+        "machine_version": 15,
+        "machine_toys": 11,
+        "machine_comments": 5,
+        "machine_tags": 17,
+        "machine_resources": 2,
+        "rules_sheet_url": 0,
+        "image_high_res": 2
+      }
+    },
+    "Cic Play": {
+      "machines": 3,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 0,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 1,
+        "machine_comments": 1,
+        "machine_tags": 1,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 2
+      }
+    },
+    "Circus Maximus": {
+      "machines": 2,
+      "fields": {
+        "designer_name": 2,
+        "artist_name": 2,
+        "software_name": 2,
+        "sound_name": 2,
+        "machine_credits": 2,
+        "machine_system": 2,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 2,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Cisco": {
+      "machines": 2,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 1,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 1,
+        "machine_system": 0,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 2,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 1
+      }
+    },
+    "Clint Jarrett": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 1,
+        "artist_name": 1,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 1,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 1,
+        "machine_comments": 0,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Coffee Mat": {
+      "machines": 3,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 2,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 1,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 1
+      }
+    },
+    "Coincraft": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Como": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 1,
+        "machine_comments": 0,
+        "machine_tags": 1,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Comptoir Industrial": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 0,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Creative Products": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 1,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Culp": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "DPX": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 1,
+        "artist_name": 1,
+        "software_name": 1,
+        "sound_name": 1,
+        "machine_credits": 1,
+        "machine_system": 1,
+        "machine_msrp": 1,
+        "machine_version": 1,
+        "machine_toys": 1,
+        "machine_comments": 1,
+        "machine_tags": 1,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Data East": {
+      "machines": 40,
+      "fields": {
+        "designer_name": 37,
+        "artist_name": 34,
+        "software_name": 32,
+        "sound_name": 35,
+        "machine_credits": 39,
+        "machine_system": 3,
+        "machine_msrp": 0,
+        "machine_version": 15,
+        "machine_toys": 25,
+        "machine_comments": 32,
+        "machine_tags": 30,
+        "machine_resources": 24,
+        "rules_sheet_url": 1,
+        "image_high_res": 24
+      }
+    },
+    "Daval": {
+      "machines": 6,
+      "fields": {
+        "designer_name": 1,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 1,
+        "machine_system": 6,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 1,
+        "machine_comments": 0,
+        "machine_tags": 1,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Day One Pinball": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 1,
+        "machine_msrp": 1,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 1,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Deeproot": {
+      "machines": 2,
+      "fields": {
+        "designer_name": 2,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 2,
+        "machine_credits": 2,
+        "machine_system": 2,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 2,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Deluxia Studios": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 1,
+        "artist_name": 1,
+        "software_name": 1,
+        "sound_name": 1,
+        "machine_credits": 1,
+        "machine_system": 1,
+        "machine_msrp": 1,
+        "machine_version": 1,
+        "machine_toys": 1,
+        "machine_comments": 0,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Dudley-Clark": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Dudouit Fils": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Dutch Pinball": {
+      "machines": 4,
+      "fields": {
+        "designer_name": 3,
+        "artist_name": 3,
+        "software_name": 4,
+        "sound_name": 3,
+        "machine_credits": 4,
+        "machine_system": 4,
+        "machine_msrp": 3,
+        "machine_version": 2,
+        "machine_toys": 1,
+        "machine_comments": 2,
+        "machine_tags": 4,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "E.A.S.": {
+      "machines": 2,
+      "fields": {
+        "designer_name": 1,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 1,
+        "machine_system": 2,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 1,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "E.G.S.": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 0,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Elbos": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 1
+      }
+    },
+    "Electro-Ball Company": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Elwin": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 1,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 1,
+        "machine_system": 1,
+        "machine_msrp": 1,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 1,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Europlay": {
+      "machines": 19,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 18,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 18,
+        "machine_system": 14,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 1,
+        "machine_tags": 3,
+        "machine_resources": 3,
+        "rules_sheet_url": 0,
+        "image_high_res": 7
+      }
+    },
+    "Exhibit": {
+      "machines": 31,
+      "fields": {
+        "designer_name": 1,
+        "artist_name": 2,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 4,
+        "machine_system": 31,
+        "machine_msrp": 1,
+        "machine_version": 0,
+        "machine_toys": 2,
+        "machine_comments": 3,
+        "machine_tags": 7,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 11
+      }
+    },
+    "Fabulous Fantasies": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 1,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 1,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 1,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Fascination Game": {
+      "machines": 4,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 0,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 2,
+        "machine_comments": 3,
+        "machine_tags": 3,
+        "machine_resources": 3,
+        "rules_sheet_url": 0,
+        "image_high_res": 3
+      }
+    },
+    "Fipermatic": {
+      "machines": 2,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 1,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 1,
+        "machine_system": 2,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Fischer": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 1,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "For Amusement Only Games": {
+      "machines": 5,
+      "fields": {
+        "designer_name": 5,
+        "artist_name": 5,
+        "software_name": 4,
+        "sound_name": 5,
+        "machine_credits": 5,
+        "machine_system": 5,
+        "machine_msrp": 4,
+        "machine_version": 3,
+        "machine_toys": 4,
+        "machine_comments": 0,
+        "machine_tags": 2,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Förster": {
+      "machines": 2,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 2,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 1,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "G. M. Laboratories": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 1,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Game Plan": {
+      "machines": 25,
+      "fields": {
+        "designer_name": 21,
+        "artist_name": 22,
+        "software_name": 7,
+        "sound_name": 0,
+        "machine_credits": 22,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 12,
+        "machine_comments": 14,
+        "machine_tags": 20,
+        "machine_resources": 11,
+        "rules_sheet_url": 0,
+        "image_high_res": 13
+      }
+    },
+    "Gameez": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 1,
+        "artist_name": 0,
+        "software_name": 1,
+        "sound_name": 1,
+        "machine_credits": 1,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Geiger": {
+      "machines": 11,
+      "fields": {
+        "designer_name": 2,
+        "artist_name": 11,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 11,
+        "machine_system": 2,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 6,
+        "machine_tags": 3,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Genco": {
+      "machines": 74,
+      "fields": {
+        "designer_name": 24,
+        "artist_name": 8,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 28,
+        "machine_system": 74,
+        "machine_msrp": 1,
+        "machine_version": 1,
+        "machine_toys": 3,
+        "machine_comments": 6,
+        "machine_tags": 22,
+        "machine_resources": 1,
+        "rules_sheet_url": 0,
+        "image_high_res": 22
+      }
+    },
+    "Giorgio Massiniero": {
+      "machines": 3,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 0,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 1
+      }
+    },
+    "Giuliano Lodola": {
+      "machines": 9,
+      "fields": {
+        "designer_name": 3,
+        "artist_name": 7,
+        "software_name": 1,
+        "sound_name": 1,
+        "machine_credits": 7,
+        "machine_system": 2,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 3,
+        "machine_tags": 2,
+        "machine_resources": 3,
+        "rules_sheet_url": 0,
+        "image_high_res": 3
+      }
+    },
+    "Gottlieb": {
+      "machines": 530,
+      "fields": {
+        "designer_name": 504,
+        "artist_name": 499,
+        "software_name": 49,
+        "sound_name": 72,
+        "machine_credits": 507,
+        "machine_system": 402,
+        "machine_msrp": 8,
+        "machine_version": 2,
+        "machine_toys": 130,
+        "machine_comments": 120,
+        "machine_tags": 279,
+        "machine_resources": 309,
+        "rules_sheet_url": 1,
+        "image_high_res": 453
+      }
+    },
+    "Grand Products": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 0,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 1,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "H. B. Jackson": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "HEP": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 1,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 1,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 1,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "HEXA Pinball": {
+      "machines": 3,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 3,
+        "machine_msrp": 2,
+        "machine_version": 1,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 3,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 1
+      }
+    },
+    "HYC": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 1,
+        "artist_name": 0,
+        "software_name": 1,
+        "sound_name": 1,
+        "machine_credits": 1,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Haggis": {
+      "machines": 5,
+      "fields": {
+        "designer_name": 5,
+        "artist_name": 5,
+        "software_name": 3,
+        "sound_name": 3,
+        "machine_credits": 5,
+        "machine_system": 5,
+        "machine_msrp": 0,
+        "machine_version": 1,
+        "machine_toys": 2,
+        "machine_comments": 1,
+        "machine_tags": 5,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Hanilamatic": {
+      "machines": 5,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 0,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Hankin": {
+      "machines": 5,
+      "fields": {
+        "designer_name": 1,
+        "artist_name": 1,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 2,
+        "machine_system": 0,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 2,
+        "machine_comments": 3,
+        "machine_tags": 4,
+        "machine_resources": 2,
+        "rules_sheet_url": 0,
+        "image_high_res": 4
+      }
+    },
+    "Headsup Pinball": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 1,
+        "machine_msrp": 1,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Heighway Pinball": {
+      "machines": 3,
+      "fields": {
+        "designer_name": 2,
+        "artist_name": 2,
+        "software_name": 2,
+        "sound_name": 1,
+        "machine_credits": 2,
+        "machine_system": 3,
+        "machine_msrp": 2,
+        "machine_version": 2,
+        "machine_toys": 2,
+        "machine_comments": 1,
+        "machine_tags": 3,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 1
+      }
+    },
+    "Hercules Novelty Co.": {
+      "machines": 2,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 2,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 1,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Homebrew": {
+      "machines": 16,
+      "fields": {
+        "designer_name": 11,
+        "artist_name": 4,
+        "software_name": 8,
+        "sound_name": 4,
+        "machine_credits": 12,
+        "machine_system": 16,
+        "machine_msrp": 1,
+        "machine_version": 1,
+        "machine_toys": 4,
+        "machine_comments": 2,
+        "machine_tags": 5,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Homepin": {
+      "machines": 4,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 1,
+        "software_name": 1,
+        "sound_name": 1,
+        "machine_credits": 1,
+        "machine_system": 4,
+        "machine_msrp": 2,
+        "machine_version": 0,
+        "machine_toys": 1,
+        "machine_comments": 1,
+        "machine_tags": 3,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 1
+      }
+    },
+    "Hungarian PBM": {
+      "machines": 2,
+      "fields": {
+        "designer_name": 2,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 2,
+        "machine_system": 2,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "I.D.I.": {
+      "machines": 4,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 1,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "ICE": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "IDSA": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 1
+      }
+    },
+    "Ian Harrower Games": {
+      "machines": 2,
+      "fields": {
+        "designer_name": 2,
+        "artist_name": 2,
+        "software_name": 2,
+        "sound_name": 1,
+        "machine_credits": 2,
+        "machine_system": 2,
+        "machine_msrp": 2,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 2,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Illinois Pin Ball": {
+      "machines": 2,
+      "fields": {
+        "designer_name": 2,
+        "artist_name": 2,
+        "software_name": 2,
+        "sound_name": 2,
+        "machine_credits": 2,
+        "machine_system": 1,
+        "machine_msrp": 1,
+        "machine_version": 1,
+        "machine_toys": 1,
+        "machine_comments": 2,
+        "machine_tags": 2,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Immersive Pinball": {
+      "machines": 2,
+      "fields": {
+        "designer_name": 2,
+        "artist_name": 2,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 2,
+        "machine_system": 2,
+        "machine_msrp": 2,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "In and Outdoor Games Co.": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 1,
+        "machine_comments": 0,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Inder": {
+      "machines": 35,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 11,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 4,
+        "machine_comments": 3,
+        "machine_tags": 12,
+        "machine_resources": 1,
+        "rules_sheet_url": 0,
+        "image_high_res": 25
+      }
+    },
+    "Innovative Concepts": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 0,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 1,
+        "machine_tags": 1,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Interflip": {
+      "machines": 6,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 2,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 1,
+        "machine_resources": 2,
+        "rules_sheet_url": 0,
+        "image_high_res": 2
+      }
+    },
+    "International": {
+      "machines": 2,
+      "fields": {
+        "designer_name": 2,
+        "artist_name": 2,
+        "software_name": 2,
+        "sound_name": 2,
+        "machine_credits": 2,
+        "machine_system": 0,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 1,
+        "machine_comments": 2,
+        "machine_tags": 2,
+        "machine_resources": 1,
+        "rules_sheet_url": 0,
+        "image_high_res": 2
+      }
+    },
+    "Irwin Pinball": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 1,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 1,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 1,
+        "machine_toys": 1,
+        "machine_comments": 0,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Jac Van Ham": {
+      "machines": 2,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 0,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 1,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 1
+      }
+    },
+    "Jake Danzig": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 1,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 1,
+        "machine_toys": 1,
+        "machine_comments": 0,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Jersey Jack": {
+      "machines": 29,
+      "fields": {
+        "designer_name": 29,
+        "artist_name": 29,
+        "software_name": 29,
+        "sound_name": 25,
+        "machine_credits": 29,
+        "machine_system": 29,
+        "machine_msrp": 18,
+        "machine_version": 23,
+        "machine_toys": 6,
+        "machine_comments": 6,
+        "machine_tags": 26,
+        "machine_resources": 5,
+        "rules_sheet_url": 5,
+        "image_high_res": 3
+      }
+    },
+    "Jeutel": {
+      "machines": 9,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 2,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 2,
+        "machine_system": 0,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 1,
+        "machine_comments": 1,
+        "machine_tags": 1,
+        "machine_resources": 1,
+        "rules_sheet_url": 0,
+        "image_high_res": 6
+      }
+    },
+    "Joctronic": {
+      "machines": 4,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 0,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 1,
+        "machine_resources": 1,
+        "rules_sheet_url": 0,
+        "image_high_res": 2
+      }
+    },
+    "Juegos Populares": {
+      "machines": 9,
+      "fields": {
+        "designer_name": 1,
+        "artist_name": 2,
+        "software_name": 0,
+        "sound_name": 2,
+        "machine_credits": 2,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 2,
+        "machine_comments": 1,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 5
+      }
+    },
+    "K.A.": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "K.C. Tabart": {
+      "machines": 4,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 2,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 2,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 1,
+        "machine_comments": 3,
+        "machine_tags": 2,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Keeney": {
+      "machines": 21,
+      "fields": {
+        "designer_name": 11,
+        "artist_name": 10,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 12,
+        "machine_system": 21,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 2,
+        "machine_comments": 1,
+        "machine_tags": 4,
+        "machine_resources": 2,
+        "rules_sheet_url": 0,
+        "image_high_res": 4
+      }
+    },
+    "Koala": {
+      "machines": 3,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 3,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Komplett": {
+      "machines": 3,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 0,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 3,
+        "machine_tags": 1,
+        "machine_resources": 1,
+        "rules_sheet_url": 0,
+        "image_high_res": 1
+      }
+    },
+    "Komputer Dynamics": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 0,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 1
+      }
+    },
+    "Kurt Savage": {
+      "machines": 2,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 2,
+        "machine_system": 2,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "LTD": {
+      "machines": 15,
+      "fields": {
+        "designer_name": 2,
+        "artist_name": 2,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 2,
+        "machine_system": 15,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 1
+      }
+    },
+    "Leeoneil": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 1,
+        "artist_name": 1,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 1,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 1,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Lincoln Manufacturing": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Lundick": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "M. Redgrave": {
+      "machines": 2,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 2,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 2,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "M.Baker + B.Holderman": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 1,
+        "artist_name": 1,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 1,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 1,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "MOcean": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 1,
+        "artist_name": 0,
+        "software_name": 1,
+        "sound_name": 0,
+        "machine_credits": 1,
+        "machine_system": 1,
+        "machine_msrp": 1,
+        "machine_version": 0,
+        "machine_toys": 1,
+        "machine_comments": 0,
+        "machine_tags": 1,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Maguinas / Mac Pinball": {
+      "machines": 6,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 1,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 1,
+        "machine_system": 2,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 4,
+        "machine_tags": 1,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 2
+      }
+    },
+    "Mali": {
+      "machines": 4,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 0,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 1,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Mambelli": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 1,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 1,
+        "machine_system": 0,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Maresa": {
+      "machines": 4,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 2,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 2,
+        "machine_system": 4,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "MarkInc": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 1,
+        "machine_tags": 1,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Marsa Play": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 1,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 1,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 1,
+        "machine_tags": 1,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 1
+      }
+    },
+    "Martina": {
+      "machines": 19,
+      "fields": {
+        "designer_name": 18,
+        "artist_name": 15,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 18,
+        "machine_system": 19,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 3,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Marvel Chicago": {
+      "machines": 3,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 3,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Matt Malone": {
+      "machines": 2,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 2,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Mattel": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 0,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 1,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Michael Mandola": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 1,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 1,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 1,
+        "machine_toys": 1,
+        "machine_comments": 1,
+        "machine_tags": 1,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Micropin Corp.": {
+      "machines": 2,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 0,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 1,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Midway": {
+      "machines": 15,
+      "fields": {
+        "designer_name": 2,
+        "artist_name": 3,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 3,
+        "machine_system": 13,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 2,
+        "machine_comments": 1,
+        "machine_tags": 5,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 4
+      }
+    },
+    "Mills": {
+      "machines": 7,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 7,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 1,
+        "machine_comments": 1,
+        "machine_tags": 2,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Mirco Games": {
+      "machines": 3,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 0,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 1,
+        "machine_comments": 2,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 2
+      }
+    },
+    "Mondialmatic": {
+      "machines": 8,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 4,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 4,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 1,
+        "machine_comments": 1,
+        "machine_tags": 3,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 3
+      }
+    },
+    "Mr Game": {
+      "machines": 4,
+      "fields": {
+        "designer_name": 4,
+        "artist_name": 4,
+        "software_name": 3,
+        "sound_name": 2,
+        "machine_credits": 4,
+        "machine_system": 0,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 1,
+        "machine_comments": 4,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 4
+      }
+    },
+    "Multimorphic": {
+      "machines": 17,
+      "fields": {
+        "designer_name": 12,
+        "artist_name": 16,
+        "software_name": 16,
+        "sound_name": 13,
+        "machine_credits": 17,
+        "machine_system": 17,
+        "machine_msrp": 7,
+        "machine_version": 3,
+        "machine_toys": 5,
+        "machine_comments": 2,
+        "machine_tags": 15,
+        "machine_resources": 3,
+        "rules_sheet_url": 3,
+        "image_high_res": 9
+      }
+    },
+    "N/A": {
+      "machines": 5,
+      "fields": {
+        "designer_name": 3,
+        "artist_name": 5,
+        "software_name": 2,
+        "sound_name": 0,
+        "machine_credits": 5,
+        "machine_system": 5,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 1,
+        "machine_comments": 1,
+        "machine_tags": 4,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Nordamatic": {
+      "machines": 9,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 5,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 5,
+        "machine_system": 3,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 1,
+        "machine_comments": 3,
+        "machine_tags": 5,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 9
+      }
+    },
+    "Nsm": {
+      "machines": 5,
+      "fields": {
+        "designer_name": 1,
+        "artist_name": 2,
+        "software_name": 1,
+        "sound_name": 1,
+        "machine_credits": 2,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 2,
+        "machine_tags": 1,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 2
+      }
+    },
+    "O. D. Jennings": {
+      "machines": 6,
+      "fields": {
+        "designer_name": 1,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 1,
+        "machine_system": 6,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 3,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "PAMCO": {
+      "machines": 4,
+      "fields": {
+        "designer_name": 3,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 3,
+        "machine_system": 4,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 2,
+        "machine_comments": 0,
+        "machine_tags": 1,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Pace": {
+      "machines": 2,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 2,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 1,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Pedretti Gaming": {
+      "machines": 6,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 2,
+        "software_name": 4,
+        "sound_name": 0,
+        "machine_credits": 5,
+        "machine_system": 6,
+        "machine_msrp": 5,
+        "machine_version": 2,
+        "machine_toys": 0,
+        "machine_comments": 2,
+        "machine_tags": 4,
+        "machine_resources": 1,
+        "rules_sheet_url": 0,
+        "image_high_res": 1
+      }
+    },
+    "Peo": {
+      "machines": 3,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 3,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 1,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Petaco": {
+      "machines": 11,
+      "fields": {
+        "designer_name": 1,
+        "artist_name": 4,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 4,
+        "machine_system": 11,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 3,
+        "machine_resources": 4,
+        "rules_sheet_url": 0,
+        "image_high_res": 6
+      }
+    },
+    "Peyper": {
+      "machines": 6,
+      "fields": {
+        "designer_name": 4,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 4,
+        "machine_system": 0,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 1,
+        "machine_comments": 3,
+        "machine_tags": 1,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 3
+      }
+    },
+    "Phénix Pinball": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 1,
+        "machine_comments": 0,
+        "machine_tags": 1,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Pierce": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 1,
+        "machine_comments": 1,
+        "machine_tags": 1,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Pin Ball": {
+      "machines": 4,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 0,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "PinBall ReBorn": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 1,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Pinball Adventures": {
+      "machines": 2,
+      "fields": {
+        "designer_name": 1,
+        "artist_name": 0,
+        "software_name": 1,
+        "sound_name": 0,
+        "machine_credits": 1,
+        "machine_system": 2,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 1,
+        "machine_comments": 1,
+        "machine_tags": 2,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Pinball Amigos": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 1,
+        "machine_toys": 1,
+        "machine_comments": 0,
+        "machine_tags": 1,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Pinball Brothers": {
+      "machines": 8,
+      "fields": {
+        "designer_name": 8,
+        "artist_name": 6,
+        "software_name": 6,
+        "sound_name": 8,
+        "machine_credits": 8,
+        "machine_system": 8,
+        "machine_msrp": 1,
+        "machine_version": 5,
+        "machine_toys": 3,
+        "machine_comments": 1,
+        "machine_tags": 7,
+        "machine_resources": 1,
+        "rules_sheet_url": 1,
+        "image_high_res": 1
+      }
+    },
+    "Pinball Shop Italy": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Pinball Tycoon": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 1,
+        "artist_name": 1,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 1,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Pinball Vision": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 1,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 1,
+        "machine_system": 0,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 1,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Pinball-Mods.com": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 1,
+        "machine_comments": 0,
+        "machine_tags": 1,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "PinballWill": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 1,
+        "machine_toys": 1,
+        "machine_comments": 0,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Pinnovating & Koop Kustoms": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 1,
+        "software_name": 1,
+        "sound_name": 0,
+        "machine_credits": 1,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 1,
+        "machine_toys": 1,
+        "machine_comments": 0,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Pinside Pinball Inc.": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 1,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 1,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 1,
+        "machine_tags": 1,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Pinstar": {
+      "machines": 3,
+      "fields": {
+        "designer_name": 1,
+        "artist_name": 1,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 1,
+        "machine_system": 0,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 2,
+        "machine_tags": 1,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Playbar": {
+      "machines": 2,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 0,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 1
+      }
+    },
+    "Playmatic": {
+      "machines": 69,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 2,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 2,
+        "machine_system": 29,
+        "machine_msrp": 1,
+        "machine_version": 0,
+        "machine_toys": 1,
+        "machine_comments": 8,
+        "machine_tags": 15,
+        "machine_resources": 18,
+        "rules_sheet_url": 0,
+        "image_high_res": 49
+      }
+    },
+    "Playmec Flippers": {
+      "machines": 2,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 2,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 2,
+        "machine_system": 0,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 2,
+        "machine_resources": 1,
+        "rules_sheet_url": 0,
+        "image_high_res": 2
+      }
+    },
+    "Procedimientos Electromagnéticos": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Professional": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 0,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Proma": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 0,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Quetzal Pinball": {
+      "machines": 3,
+      "fields": {
+        "designer_name": 3,
+        "artist_name": 2,
+        "software_name": 1,
+        "sound_name": 2,
+        "machine_credits": 3,
+        "machine_system": 3,
+        "machine_msrp": 1,
+        "machine_version": 0,
+        "machine_toys": 1,
+        "machine_comments": 0,
+        "machine_tags": 2,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "R.M.G": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 1,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 1,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 0,
+        "machine_resources": 1,
+        "rules_sheet_url": 0,
+        "image_high_res": 1
+      }
+    },
+    "Rally": {
+      "machines": 23,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 22,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 1,
+        "machine_comments": 1,
+        "machine_tags": 6,
+        "machine_resources": 1,
+        "rules_sheet_url": 0,
+        "image_high_res": 21
+      }
+    },
+    "Ranco": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 1,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 1,
+        "machine_system": 0,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 1,
+        "machine_tags": 1,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Rebellion Pinball": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 1,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 1,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 1,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 1
+      }
+    },
+    "Recel": {
+      "machines": 41,
+      "fields": {
+        "designer_name": 1,
+        "artist_name": 1,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 1,
+        "machine_system": 12,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 3,
+        "machine_tags": 7,
+        "machine_resources": 12,
+        "rules_sheet_url": 0,
+        "image_high_res": 27
+      }
+    },
+    "Recreativos Franco": {
+      "machines": 3,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 3,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Recreativos Garcia": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 0,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Recreativos Invermatic": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Red Baron Amusements": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 0,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 1,
+        "machine_comments": 1,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Regama": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 0,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Retro Arcade": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 1,
+        "machine_msrp": 1,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Retro Pinball": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 1,
+        "artist_name": 1,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 1,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 1,
+        "machine_resources": 1,
+        "rules_sheet_url": 0,
+        "image_high_res": 1
+      }
+    },
+    "Riot Pinball": {
+      "machines": 2,
+      "fields": {
+        "designer_name": 2,
+        "artist_name": 2,
+        "software_name": 2,
+        "sound_name": 2,
+        "machine_credits": 2,
+        "machine_system": 2,
+        "machine_msrp": 1,
+        "machine_version": 1,
+        "machine_toys": 1,
+        "machine_comments": 0,
+        "machine_tags": 2,
+        "machine_resources": 1,
+        "rules_sheet_url": 1,
+        "image_high_res": 2
+      }
+    },
+    "Rockola": {
+      "machines": 14,
+      "fields": {
+        "designer_name": 5,
+        "artist_name": 1,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 5,
+        "machine_system": 14,
+        "machine_msrp": 3,
+        "machine_version": 0,
+        "machine_toys": 4,
+        "machine_comments": 7,
+        "machine_tags": 5,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Rotordave": {
+      "machines": 2,
+      "fields": {
+        "designer_name": 2,
+        "artist_name": 2,
+        "software_name": 1,
+        "sound_name": 1,
+        "machine_credits": 2,
+        "machine_system": 2,
+        "machine_msrp": 0,
+        "machine_version": 1,
+        "machine_toys": 1,
+        "machine_comments": 1,
+        "machine_tags": 1,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Royal": {
+      "machines": 2,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 1,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Ryan McQuaid ": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 1,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 1,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 1,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Ryan Soppe Homebrew": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 1,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 1,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 1,
+        "machine_comments": 1,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Ryan Zlomek": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 1,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "SIRMO": {
+      "machines": 6,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 0,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Scientific Machine Corporation": {
+      "machines": 2,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 2,
+        "machine_msrp": 1,
+        "machine_version": 0,
+        "machine_toys": 1,
+        "machine_comments": 0,
+        "machine_tags": 1,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Sega": {
+      "machines": 43,
+      "fields": {
+        "designer_name": 20,
+        "artist_name": 18,
+        "software_name": 22,
+        "sound_name": 20,
+        "machine_credits": 22,
+        "machine_system": 5,
+        "machine_msrp": 2,
+        "machine_version": 7,
+        "machine_toys": 18,
+        "machine_comments": 19,
+        "machine_tags": 31,
+        "machine_resources": 16,
+        "rules_sheet_url": 0,
+        "image_high_res": 17
+      }
+    },
+    "Segasa-Sonic": {
+      "machines": 37,
+      "fields": {
+        "designer_name": 13,
+        "artist_name": 16,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 16,
+        "machine_system": 17,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 2,
+        "machine_comments": 3,
+        "machine_tags": 12,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Sentinel": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Serge Wesoly": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 1,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 1,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 1,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Skit-B Pinball": {
+      "machines": 5,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 1,
+        "machine_system": 5,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 1,
+        "machine_comments": 0,
+        "machine_tags": 1,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 1
+      }
+    },
+    "Sleic": {
+      "machines": 4,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 0,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 1,
+        "machine_comments": 1,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 4
+      }
+    },
+    "Soc. Elettrogiochi": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Southland Engineering": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Spinball": {
+      "machines": 3,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 0,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 1,
+        "machine_comments": 1,
+        "machine_tags": 1,
+        "machine_resources": 2,
+        "rules_sheet_url": 0,
+        "image_high_res": 2
+      }
+    },
+    "Spooky Pinball": {
+      "machines": 26,
+      "fields": {
+        "designer_name": 23,
+        "artist_name": 20,
+        "software_name": 25,
+        "sound_name": 24,
+        "machine_credits": 26,
+        "machine_system": 26,
+        "machine_msrp": 18,
+        "machine_version": 14,
+        "machine_toys": 11,
+        "machine_comments": 15,
+        "machine_tags": 26,
+        "machine_resources": 2,
+        "rules_sheet_url": 2,
+        "image_high_res": 4
+      }
+    },
+    "Sportmatic": {
+      "machines": 3,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 2,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 2,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 1
+      }
+    },
+    "Staal": {
+      "machines": 2,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 1,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 1,
+        "machine_system": 0,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 2,
+        "machine_comments": 2,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 2
+      }
+    },
+    "Standard": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 1,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 1,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Standard Amusement Co.": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Stefan Mader": {
+      "machines": 6,
+      "fields": {
+        "designer_name": 4,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 4,
+        "machine_system": 6,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Stern": {
+      "machines": 198,
+      "fields": {
+        "designer_name": 197,
+        "artist_name": 163,
+        "software_name": 191,
+        "sound_name": 195,
+        "machine_credits": 197,
+        "machine_system": 170,
+        "machine_msrp": 80,
+        "machine_version": 180,
+        "machine_toys": 107,
+        "machine_comments": 101,
+        "machine_tags": 187,
+        "machine_resources": 96,
+        "rules_sheet_url": 65,
+        "image_high_res": 98
+      }
+    },
+    "Stern Electronics": {
+      "machines": 41,
+      "fields": {
+        "designer_name": 37,
+        "artist_name": 23,
+        "software_name": 8,
+        "sound_name": 0,
+        "machine_credits": 37,
+        "machine_system": 9,
+        "machine_msrp": 1,
+        "machine_version": 0,
+        "machine_toys": 12,
+        "machine_comments": 22,
+        "machine_tags": 29,
+        "machine_resources": 30,
+        "rules_sheet_url": 0,
+        "image_high_res": 31
+      }
+    },
+    "Stoner": {
+      "machines": 14,
+      "fields": {
+        "designer_name": 2,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 2,
+        "machine_system": 14,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 5,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Suncoast": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 1,
+        "software_name": 0,
+        "sound_name": 1,
+        "machine_credits": 1,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 1,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 1
+      }
+    },
+    "Taito": {
+      "machines": 41,
+      "fields": {
+        "designer_name": 15,
+        "artist_name": 12,
+        "software_name": 0,
+        "sound_name": 3,
+        "machine_credits": 15,
+        "machine_system": 40,
+        "machine_msrp": 2,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 3,
+        "machine_tags": 3,
+        "machine_resources": 2,
+        "rules_sheet_url": 0,
+        "image_high_res": 5
+      }
+    },
+    "Talleres": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 1,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Team Pinball": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 1,
+        "artist_name": 1,
+        "software_name": 1,
+        "sound_name": 1,
+        "machine_credits": 1,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 1,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Tecnoplay": {
+      "machines": 5,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 1,
+        "software_name": 0,
+        "sound_name": 1,
+        "machine_credits": 2,
+        "machine_system": 0,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 1,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 5
+      }
+    },
+    "The Best": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 0,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Treasure Cove": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 1,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Trident Pinball": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 1,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 1,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 1,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Trilogy Brewing co.": {
+      "machines": 2,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 1,
+        "sound_name": 0,
+        "machine_credits": 1,
+        "machine_system": 2,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 1,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Turner Pinball": {
+      "machines": 4,
+      "fields": {
+        "designer_name": 4,
+        "artist_name": 2,
+        "software_name": 2,
+        "sound_name": 2,
+        "machine_credits": 4,
+        "machine_system": 4,
+        "machine_msrp": 3,
+        "machine_version": 0,
+        "machine_toys": 1,
+        "machine_comments": 0,
+        "machine_tags": 4,
+        "machine_resources": 1,
+        "rules_sheet_url": 0,
+        "image_high_res": 1
+      }
+    },
+    "UP Pinball": {
+      "machines": 2,
+      "fields": {
+        "designer_name": 2,
+        "artist_name": 1,
+        "software_name": 1,
+        "sound_name": 0,
+        "machine_credits": 2,
+        "machine_system": 2,
+        "machine_msrp": 0,
+        "machine_version": 1,
+        "machine_toys": 0,
+        "machine_comments": 1,
+        "machine_tags": 2,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Unidesa": {
+      "machines": 10,
+      "fields": {
+        "designer_name": 2,
+        "artist_name": 1,
+        "software_name": 2,
+        "sound_name": 0,
+        "machine_credits": 2,
+        "machine_system": 0,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 5,
+        "machine_tags": 2,
+        "machine_resources": 1,
+        "rules_sheet_url": 0,
+        "image_high_res": 5
+      }
+    },
+    "United": {
+      "machines": 67,
+      "fields": {
+        "designer_name": 2,
+        "artist_name": 5,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 7,
+        "machine_system": 67,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 2,
+        "machine_tags": 14,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 11
+      }
+    },
+    "Universal": {
+      "machines": 4,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 2,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 1,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 1
+      }
+    },
+    "Unknown": {
+      "machines": 4,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 4,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 2,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Valley": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 0,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 1,
+        "machine_comments": 1,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 1
+      }
+    },
+    "Valley-Dynamo": {
+      "machines": 2,
+      "fields": {
+        "designer_name": 2,
+        "artist_name": 2,
+        "software_name": 2,
+        "sound_name": 2,
+        "machine_credits": 2,
+        "machine_system": 2,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 2,
+        "machine_comments": 0,
+        "machine_tags": 2,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Venture Line": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 0,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 1,
+        "machine_tags": 1,
+        "machine_resources": 1,
+        "rules_sheet_url": 0,
+        "image_high_res": 1
+      }
+    },
+    "Victory Games": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 1,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Videodens": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 0,
+        "machine_resources": 1,
+        "rules_sheet_url": 0,
+        "image_high_res": 1
+      }
+    },
+    "Viza Manufacturing": {
+      "machines": 2,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 1,
+        "sound_name": 0,
+        "machine_credits": 1,
+        "machine_system": 0,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 1,
+        "machine_tags": 2,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 1
+      }
+    },
+    "WA Pinball": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 1,
+        "machine_toys": 1,
+        "machine_comments": 1,
+        "machine_tags": 1,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Western Equipment": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 1,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Whirlpool": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "WhizBang Pinball": {
+      "machines": 2,
+      "fields": {
+        "designer_name": 2,
+        "artist_name": 2,
+        "software_name": 1,
+        "sound_name": 1,
+        "machine_credits": 2,
+        "machine_system": 2,
+        "machine_msrp": 2,
+        "machine_version": 1,
+        "machine_toys": 1,
+        "machine_comments": 1,
+        "machine_tags": 2,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Wico": {
+      "machines": 2,
+      "fields": {
+        "designer_name": 1,
+        "artist_name": 2,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 2,
+        "machine_system": 0,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 1,
+        "machine_comments": 1,
+        "machine_tags": 1,
+        "machine_resources": 1,
+        "rules_sheet_url": 0,
+        "image_high_res": 1
+      }
+    },
+    "Williams": {
+      "machines": 455,
+      "fields": {
+        "designer_name": 398,
+        "artist_name": 371,
+        "software_name": 96,
+        "sound_name": 85,
+        "machine_credits": 409,
+        "machine_system": 340,
+        "machine_msrp": 4,
+        "machine_version": 33,
+        "machine_toys": 109,
+        "machine_comments": 109,
+        "machine_tags": 200,
+        "machine_resources": 220,
+        "rules_sheet_url": 1,
+        "image_high_res": 354
+      }
+    },
+    "Willy Michiels": {
+      "machines": 3,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 0,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Wolfmarsh": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 1,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 1,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 1,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Wonderland Amusements": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 1,
+        "machine_msrp": 1,
+        "machine_version": 1,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 1,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Zaccaria": {
+      "machines": 47,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 37,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 37,
+        "machine_system": 13,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 12,
+        "machine_comments": 16,
+        "machine_tags": 31,
+        "machine_resources": 24,
+        "rules_sheet_url": 0,
+        "image_high_res": 39
+      }
+    },
+    "Zachary Frey": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 1,
+        "artist_name": 1,
+        "software_name": 1,
+        "sound_name": 0,
+        "machine_credits": 1,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Zidware Pinball USA": {
+      "machines": 4,
+      "fields": {
+        "designer_name": 4,
+        "artist_name": 1,
+        "software_name": 1,
+        "sound_name": 1,
+        "machine_credits": 4,
+        "machine_system": 4,
+        "machine_msrp": 1,
+        "machine_version": 1,
+        "machine_toys": 2,
+        "machine_comments": 1,
+        "machine_tags": 2,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "kindofabigneil Games": {
+      "machines": 2,
+      "fields": {
+        "designer_name": 2,
+        "artist_name": 0,
+        "software_name": 2,
+        "sound_name": 0,
+        "machine_credits": 2,
+        "machine_system": 2,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 2,
+        "machine_comments": 0,
+        "machine_tags": 2,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "surlyoldpunk": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    }
+  },
+  "by_era": {
+    "1870s": {
+      "machines": 2,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 2,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 2,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "1930s": {
+      "machines": 202,
+      "fields": {
+        "designer_name": 31,
+        "artist_name": 2,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 34,
+        "machine_system": 202,
+        "machine_msrp": 5,
+        "machine_version": 0,
+        "machine_toys": 18,
+        "machine_comments": 19,
+        "machine_tags": 46,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "1940s": {
+      "machines": 188,
+      "fields": {
+        "designer_name": 63,
+        "artist_name": 63,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 75,
+        "machine_system": 187,
+        "machine_msrp": 2,
+        "machine_version": 0,
+        "machine_toys": 14,
+        "machine_comments": 14,
+        "machine_tags": 61,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 63
+      }
+    },
+    "1950s": {
+      "machines": 369,
+      "fields": {
+        "designer_name": 253,
+        "artist_name": 228,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 263,
+        "machine_system": 369,
+        "machine_msrp": 0,
+        "machine_version": 1,
+        "machine_toys": 23,
+        "machine_comments": 11,
+        "machine_tags": 119,
+        "machine_resources": 17,
+        "rules_sheet_url": 0,
+        "image_high_res": 247
+      }
+    },
+    "1960s": {
+      "machines": 451,
+      "fields": {
+        "designer_name": 320,
+        "artist_name": 267,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 331,
+        "machine_system": 451,
+        "machine_msrp": 0,
+        "machine_version": 2,
+        "machine_toys": 77,
+        "machine_comments": 49,
+        "machine_tags": 164,
+        "machine_resources": 218,
+        "rules_sheet_url": 0,
+        "image_high_res": 307
+      }
+    },
+    "1970s": {
+      "machines": 801,
+      "fields": {
+        "designer_name": 424,
+        "artist_name": 486,
+        "software_name": 22,
+        "sound_name": 17,
+        "machine_credits": 509,
+        "machine_system": 476,
+        "machine_msrp": 10,
+        "machine_version": 0,
+        "machine_toys": 129,
+        "machine_comments": 200,
+        "machine_tags": 331,
+        "machine_resources": 370,
+        "rules_sheet_url": 0,
+        "image_high_res": 482
+      }
+    },
+    "1980s": {
+      "machines": 519,
+      "fields": {
+        "designer_name": 274,
+        "artist_name": 301,
+        "software_name": 182,
+        "sound_name": 130,
+        "machine_credits": 334,
+        "machine_system": 83,
+        "machine_msrp": 8,
+        "machine_version": 16,
+        "machine_toys": 158,
+        "machine_comments": 220,
+        "machine_tags": 240,
+        "machine_resources": 202,
+        "rules_sheet_url": 2,
+        "image_high_res": 291
+      }
+    },
+    "1990s": {
+      "machines": 206,
+      "fields": {
+        "designer_name": 166,
+        "artist_name": 155,
+        "software_name": 142,
+        "sound_name": 158,
+        "machine_credits": 175,
+        "machine_system": 16,
+        "machine_msrp": 7,
+        "machine_version": 69,
+        "machine_toys": 132,
+        "machine_comments": 132,
+        "machine_tags": 160,
+        "machine_resources": 121,
+        "rules_sheet_url": 2,
+        "image_high_res": 138
+      }
+    },
+    "2000s": {
+      "machines": 50,
+      "fields": {
+        "designer_name": 41,
+        "artist_name": 35,
+        "software_name": 37,
+        "sound_name": 36,
+        "machine_credits": 43,
+        "machine_system": 18,
+        "machine_msrp": 4,
+        "machine_version": 29,
+        "machine_toys": 30,
+        "machine_comments": 31,
+        "machine_tags": 38,
+        "machine_resources": 21,
+        "rules_sheet_url": 3,
+        "image_high_res": 22
+      }
+    },
+    "2010s": {
+      "machines": 192,
+      "fields": {
+        "designer_name": 164,
+        "artist_name": 137,
+        "software_name": 140,
+        "sound_name": 132,
+        "machine_credits": 174,
+        "machine_system": 192,
+        "machine_msrp": 55,
+        "machine_version": 128,
+        "machine_toys": 95,
+        "machine_comments": 68,
+        "machine_tags": 170,
+        "machine_resources": 63,
+        "rules_sheet_url": 47,
+        "image_high_res": 74
+      }
+    },
+    "2020s": {
+      "machines": 236,
+      "fields": {
+        "designer_name": 198,
+        "artist_name": 162,
+        "software_name": 178,
+        "sound_name": 158,
+        "machine_credits": 217,
+        "machine_system": 236,
+        "machine_msrp": 126,
+        "machine_version": 126,
+        "machine_toys": 75,
+        "machine_comments": 61,
+        "machine_tags": 177,
+        "machine_resources": 34,
+        "rules_sheet_url": 32,
+        "image_high_res": 38
+      }
+    }
+  },
+  "by_edition": {
+    "1984": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 1,
+        "artist_name": 1,
+        "software_name": 1,
+        "sound_name": 0,
+        "machine_credits": 1,
+        "machine_system": 0,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "2023 remake": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 1,
+        "machine_msrp": 1,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "2nd": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "2nd Version 1984": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "30th Anniversary LE": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 1,
+        "artist_name": 1,
+        "software_name": 1,
+        "sound_name": 1,
+        "machine_credits": 1,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 1,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 1,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "30th Anniversary Remake": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 1,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 1,
+        "machine_system": 1,
+        "machine_msrp": 1,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "38, New Style": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 1,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "4-digit-Test-Sample": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 1,
+        "artist_name": 1,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 1,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "40th anniversary edition": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 1,
+        "artist_name": 1,
+        "software_name": 1,
+        "sound_name": 1,
+        "machine_credits": 1,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 1,
+        "machine_toys": 1,
+        "machine_comments": 0,
+        "machine_tags": 1,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "50th Anniversary Premium": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 1,
+        "artist_name": 1,
+        "software_name": 1,
+        "sound_name": 1,
+        "machine_credits": 1,
+        "machine_system": 1,
+        "machine_msrp": 1,
+        "machine_version": 1,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 1,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "60th LE": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 1,
+        "artist_name": 1,
+        "software_name": 1,
+        "sound_name": 1,
+        "machine_credits": 1,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 1,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 1,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "70th Anniversary Premium": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 1,
+        "artist_name": 1,
+        "software_name": 1,
+        "sound_name": 1,
+        "machine_credits": 1,
+        "machine_system": 1,
+        "machine_msrp": 1,
+        "machine_version": 1,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 1,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "75th Anniversary Edition": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 1,
+        "artist_name": 1,
+        "software_name": 1,
+        "sound_name": 1,
+        "machine_credits": 1,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 1,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 1,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Add-a-Ball": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 1,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 1,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Arcade Edition": {
+      "machines": 3,
+      "fields": {
+        "designer_name": 3,
+        "artist_name": 2,
+        "software_name": 2,
+        "sound_name": 3,
+        "machine_credits": 3,
+        "machine_system": 3,
+        "machine_msrp": 2,
+        "machine_version": 1,
+        "machine_toys": 1,
+        "machine_comments": 1,
+        "machine_tags": 2,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Arrival Limited Edition": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 1,
+        "artist_name": 1,
+        "software_name": 0,
+        "sound_name": 1,
+        "machine_credits": 1,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 1,
+        "machine_comments": 0,
+        "machine_tags": 1,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Bad Mother Flipper LE": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 1,
+        "artist_name": 1,
+        "software_name": 1,
+        "sound_name": 1,
+        "machine_credits": 1,
+        "machine_system": 1,
+        "machine_msrp": 1,
+        "machine_version": 1,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 1,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Beast Edition": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 1,
+        "artist_name": 1,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 1,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 1,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Black Test-Sample": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 1,
+        "artist_name": 1,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 1,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Blood Red Kiss Edition": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 1,
+        "artist_name": 1,
+        "software_name": 1,
+        "sound_name": 1,
+        "machine_credits": 1,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 1,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 1,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Blood Sucker Edition": {
+      "machines": 4,
+      "fields": {
+        "designer_name": 4,
+        "artist_name": 3,
+        "software_name": 4,
+        "sound_name": 4,
+        "machine_credits": 4,
+        "machine_system": 4,
+        "machine_msrp": 3,
+        "machine_version": 2,
+        "machine_toys": 1,
+        "machine_comments": 3,
+        "machine_tags": 4,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Blood Suckers Edition": {
+      "machines": 2,
+      "fields": {
+        "designer_name": 1,
+        "artist_name": 1,
+        "software_name": 2,
+        "sound_name": 2,
+        "machine_credits": 2,
+        "machine_system": 2,
+        "machine_msrp": 1,
+        "machine_version": 0,
+        "machine_toys": 1,
+        "machine_comments": 1,
+        "machine_tags": 2,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "CE": {
+      "machines": 7,
+      "fields": {
+        "designer_name": 7,
+        "artist_name": 7,
+        "software_name": 7,
+        "sound_name": 5,
+        "machine_credits": 7,
+        "machine_system": 7,
+        "machine_msrp": 5,
+        "machine_version": 6,
+        "machine_toys": 3,
+        "machine_comments": 3,
+        "machine_tags": 7,
+        "machine_resources": 2,
+        "rules_sheet_url": 2,
+        "image_high_res": 1
+      }
+    },
+    "Champions Edition": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 1,
+        "artist_name": 0,
+        "software_name": 1,
+        "sound_name": 1,
+        "machine_credits": 1,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 1,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 1,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Classic": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 1,
+        "artist_name": 1,
+        "software_name": 1,
+        "sound_name": 1,
+        "machine_credits": 1,
+        "machine_system": 1,
+        "machine_msrp": 1,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 1,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Classic Edition": {
+      "machines": 2,
+      "fields": {
+        "designer_name": 2,
+        "artist_name": 2,
+        "software_name": 1,
+        "sound_name": 1,
+        "machine_credits": 2,
+        "machine_system": 2,
+        "machine_msrp": 0,
+        "machine_version": 1,
+        "machine_toys": 1,
+        "machine_comments": 1,
+        "machine_tags": 2,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Classic Edition Remake": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 1,
+        "artist_name": 1,
+        "software_name": 1,
+        "sound_name": 0,
+        "machine_credits": 1,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 1,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Collector's Edition": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 1,
+        "artist_name": 1,
+        "software_name": 1,
+        "sound_name": 1,
+        "machine_credits": 1,
+        "machine_system": 1,
+        "machine_msrp": 1,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Collectors Edition": {
+      "machines": 6,
+      "fields": {
+        "designer_name": 5,
+        "artist_name": 5,
+        "software_name": 6,
+        "sound_name": 6,
+        "machine_credits": 6,
+        "machine_system": 6,
+        "machine_msrp": 6,
+        "machine_version": 5,
+        "machine_toys": 2,
+        "machine_comments": 4,
+        "machine_tags": 6,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Deluxe": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 1,
+        "machine_comments": 1,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Deluxe Edition": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 1,
+        "artist_name": 1,
+        "software_name": 1,
+        "sound_name": 1,
+        "machine_credits": 1,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 1,
+        "machine_toys": 1,
+        "machine_comments": 1,
+        "machine_tags": 1,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Deluxe Senior": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Diamond Edition": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 1,
+        "artist_name": 1,
+        "software_name": 1,
+        "sound_name": 1,
+        "machine_credits": 1,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 1,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 1,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "EM version": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 1,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 1,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Ellen Ripley Version": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 1,
+        "artist_name": 1,
+        "software_name": 1,
+        "sound_name": 1,
+        "machine_credits": 1,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 1,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 1,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Emerald City Limited Edition": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 1,
+        "artist_name": 1,
+        "software_name": 1,
+        "sound_name": 1,
+        "machine_credits": 1,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 1,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 1,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Empire Home Edition": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 1,
+        "artist_name": 0,
+        "software_name": 1,
+        "sound_name": 1,
+        "machine_credits": 1,
+        "machine_system": 1,
+        "machine_msrp": 1,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 1,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Engraved Edition": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 1,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Export": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 1,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 1,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 1,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Export-Model": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 1,
+        "artist_name": 1,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 1,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Fiberglass Prototype": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 1,
+        "artist_name": 1,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 1,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Gold Edition": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 1,
+        "artist_name": 1,
+        "software_name": 1,
+        "sound_name": 1,
+        "machine_credits": 1,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 1,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 1,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Green Test-Sample": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 1,
+        "artist_name": 1,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 1,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Heighway Pinball": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 1,
+        "artist_name": 1,
+        "software_name": 1,
+        "sound_name": 1,
+        "machine_credits": 1,
+        "machine_system": 1,
+        "machine_msrp": 1,
+        "machine_version": 1,
+        "machine_toys": 1,
+        "machine_comments": 0,
+        "machine_tags": 1,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Home Edition": {
+      "machines": 6,
+      "fields": {
+        "designer_name": 5,
+        "artist_name": 1,
+        "software_name": 5,
+        "sound_name": 5,
+        "machine_credits": 5,
+        "machine_system": 5,
+        "machine_msrp": 1,
+        "machine_version": 2,
+        "machine_toys": 1,
+        "machine_comments": 3,
+        "machine_tags": 6,
+        "machine_resources": 2,
+        "rules_sheet_url": 2,
+        "image_high_res": 2
+      }
+    },
+    "Home Edition Plus": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 1,
+        "artist_name": 0,
+        "software_name": 1,
+        "sound_name": 1,
+        "machine_credits": 1,
+        "machine_system": 1,
+        "machine_msrp": 1,
+        "machine_version": 1,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 1,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Home Plus": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 1,
+        "artist_name": 1,
+        "software_name": 1,
+        "sound_name": 1,
+        "machine_credits": 1,
+        "machine_system": 1,
+        "machine_msrp": 1,
+        "machine_version": 1,
+        "machine_toys": 1,
+        "machine_comments": 1,
+        "machine_tags": 1,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Italy": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 1,
+        "artist_name": 1,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 1,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Jesus Edition": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 1,
+        "artist_name": 1,
+        "software_name": 1,
+        "sound_name": 1,
+        "machine_credits": 1,
+        "machine_system": 1,
+        "machine_msrp": 1,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 1,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Jr": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 1,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Junior": {
+      "machines": 3,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 3,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Kit": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 1,
+        "artist_name": 1,
+        "software_name": 1,
+        "sound_name": 0,
+        "machine_credits": 1,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 1,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "LE": {
+      "machines": 44,
+      "fields": {
+        "designer_name": 44,
+        "artist_name": 39,
+        "software_name": 44,
+        "sound_name": 43,
+        "machine_credits": 44,
+        "machine_system": 44,
+        "machine_msrp": 20,
+        "machine_version": 42,
+        "machine_toys": 23,
+        "machine_comments": 16,
+        "machine_tags": 42,
+        "machine_resources": 18,
+        "rules_sheet_url": 15,
+        "image_high_res": 17
+      }
+    },
+    "LE Remake": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 1,
+        "artist_name": 1,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 1,
+        "machine_system": 1,
+        "machine_msrp": 1,
+        "machine_version": 1,
+        "machine_toys": 1,
+        "machine_comments": 0,
+        "machine_tags": 1,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Legacy Edition Remake": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 1,
+        "machine_msrp": 1,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Legendary Edition": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 1,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 1,
+        "machine_system": 1,
+        "machine_msrp": 1,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 1,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 1
+      }
+    },
+    "Legends of Wrestlemania": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 1,
+        "artist_name": 0,
+        "software_name": 1,
+        "sound_name": 1,
+        "machine_credits": 1,
+        "machine_system": 1,
+        "machine_msrp": 1,
+        "machine_version": 1,
+        "machine_toys": 1,
+        "machine_comments": 0,
+        "machine_tags": 1,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Limited Edition": {
+      "machines": 9,
+      "fields": {
+        "designer_name": 9,
+        "artist_name": 9,
+        "software_name": 8,
+        "sound_name": 8,
+        "machine_credits": 9,
+        "machine_system": 9,
+        "machine_msrp": 5,
+        "machine_version": 8,
+        "machine_toys": 4,
+        "machine_comments": 5,
+        "machine_tags": 9,
+        "machine_resources": 1,
+        "rules_sheet_url": 1,
+        "image_high_res": 1
+      }
+    },
+    "Limited Rhapsody Edition": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 1,
+        "artist_name": 0,
+        "software_name": 1,
+        "sound_name": 1,
+        "machine_credits": 1,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 1,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 1,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Limited Version": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 1,
+        "artist_name": 1,
+        "software_name": 1,
+        "sound_name": 1,
+        "machine_credits": 1,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 1,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 1,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Master": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 1,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 1,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 1,
+        "machine_comments": 0,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Merlin Edition": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 1,
+        "artist_name": 1,
+        "software_name": 1,
+        "sound_name": 0,
+        "machine_credits": 1,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 1,
+        "machine_comments": 0,
+        "machine_tags": 1,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Mermaid Edition": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 1,
+        "artist_name": 1,
+        "software_name": 1,
+        "sound_name": 1,
+        "machine_credits": 1,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 1,
+        "machine_toys": 1,
+        "machine_comments": 1,
+        "machine_tags": 1,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Model 44": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 1,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Model B": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Orblivion Edition": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 1,
+        "artist_name": 1,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 1,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 1,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Platinum Edition": {
+      "machines": 2,
+      "fields": {
+        "designer_name": 2,
+        "artist_name": 2,
+        "software_name": 2,
+        "sound_name": 1,
+        "machine_credits": 2,
+        "machine_system": 2,
+        "machine_msrp": 1,
+        "machine_version": 2,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 2,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Premium": {
+      "machines": 40,
+      "fields": {
+        "designer_name": 40,
+        "artist_name": 36,
+        "software_name": 40,
+        "sound_name": 40,
+        "machine_credits": 40,
+        "machine_system": 40,
+        "machine_msrp": 20,
+        "machine_version": 38,
+        "machine_toys": 20,
+        "machine_comments": 17,
+        "machine_tags": 38,
+        "machine_resources": 15,
+        "rules_sheet_url": 13,
+        "image_high_res": 15
+      }
+    },
+    "Premium Edition": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 1,
+        "artist_name": 1,
+        "software_name": 1,
+        "sound_name": 1,
+        "machine_credits": 1,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 1,
+        "machine_toys": 0,
+        "machine_comments": 1,
+        "machine_tags": 1,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Premium Vault Edition": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 1,
+        "artist_name": 0,
+        "software_name": 1,
+        "sound_name": 1,
+        "machine_credits": 1,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 1,
+        "machine_resources": 1,
+        "rules_sheet_url": 0,
+        "image_high_res": 1
+      }
+    },
+    "Pro": {
+      "machines": 40,
+      "fields": {
+        "designer_name": 40,
+        "artist_name": 34,
+        "software_name": 40,
+        "sound_name": 40,
+        "machine_credits": 40,
+        "machine_system": 40,
+        "machine_msrp": 16,
+        "machine_version": 40,
+        "machine_toys": 21,
+        "machine_comments": 23,
+        "machine_tags": 39,
+        "machine_resources": 35,
+        "rules_sheet_url": 32,
+        "image_high_res": 35
+      }
+    },
+    "Pro Vault Edition": {
+      "machines": 2,
+      "fields": {
+        "designer_name": 2,
+        "artist_name": 0,
+        "software_name": 2,
+        "sound_name": 2,
+        "machine_credits": 2,
+        "machine_system": 2,
+        "machine_msrp": 1,
+        "machine_version": 2,
+        "machine_toys": 2,
+        "machine_comments": 2,
+        "machine_tags": 2,
+        "machine_resources": 1,
+        "rules_sheet_url": 0,
+        "image_high_res": 1
+      }
+    },
+    "Red Model": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 1,
+        "artist_name": 1,
+        "software_name": 1,
+        "sound_name": 1,
+        "machine_credits": 1,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Remake": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 1,
+        "artist_name": 1,
+        "software_name": 1,
+        "sound_name": 1,
+        "machine_credits": 1,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 1,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Remake - Classic": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 1,
+        "artist_name": 1,
+        "software_name": 1,
+        "sound_name": 0,
+        "machine_credits": 1,
+        "machine_system": 1,
+        "machine_msrp": 1,
+        "machine_version": 1,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 1,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Remake - LE": {
+      "machines": 3,
+      "fields": {
+        "designer_name": 3,
+        "artist_name": 3,
+        "software_name": 2,
+        "sound_name": 1,
+        "machine_credits": 3,
+        "machine_system": 3,
+        "machine_msrp": 1,
+        "machine_version": 2,
+        "machine_toys": 2,
+        "machine_comments": 0,
+        "machine_tags": 3,
+        "machine_resources": 1,
+        "rules_sheet_url": 0,
+        "image_high_res": 1
+      }
+    },
+    "Remake - Special": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 1,
+        "artist_name": 1,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 1,
+        "machine_system": 1,
+        "machine_msrp": 1,
+        "machine_version": 1,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 1,
+        "machine_resources": 1,
+        "rules_sheet_url": 0,
+        "image_high_res": 1
+      }
+    },
+    "Remake - Special Edition": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 1,
+        "artist_name": 1,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 1,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 1,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 1,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Remake - Special Edition Plus": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 1,
+        "artist_name": 1,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 1,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 1,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 1,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Royal Edition Remake": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 1,
+        "artist_name": 1,
+        "software_name": 1,
+        "sound_name": 0,
+        "machine_credits": 1,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 1,
+        "machine_toys": 1,
+        "machine_comments": 1,
+        "machine_tags": 1,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Rudy's Nightmare": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 1,
+        "sound_name": 0,
+        "machine_credits": 1,
+        "machine_system": 1,
+        "machine_msrp": 1,
+        "machine_version": 1,
+        "machine_toys": 0,
+        "machine_comments": 1,
+        "machine_tags": 1,
+        "machine_resources": 1,
+        "rules_sheet_url": 0,
+        "image_high_res": 1
+      }
+    },
+    "SE": {
+      "machines": 3,
+      "fields": {
+        "designer_name": 3,
+        "artist_name": 3,
+        "software_name": 3,
+        "sound_name": 3,
+        "machine_credits": 3,
+        "machine_system": 3,
+        "machine_msrp": 3,
+        "machine_version": 3,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 3,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Senior": {
+      "machines": 2,
+      "fields": {
+        "designer_name": 1,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 1,
+        "machine_system": 2,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 1,
+        "machine_comments": 0,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Signature Edition": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 1,
+        "artist_name": 1,
+        "software_name": 1,
+        "sound_name": 1,
+        "machine_credits": 1,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 1,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 1,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Solid State": {
+      "machines": 8,
+      "fields": {
+        "designer_name": 6,
+        "artist_name": 6,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 6,
+        "machine_system": 8,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 1,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Special": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 0,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 1,
+        "machine_comments": 0,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Special Edition": {
+      "machines": 2,
+      "fields": {
+        "designer_name": 2,
+        "artist_name": 2,
+        "software_name": 1,
+        "sound_name": 1,
+        "machine_credits": 2,
+        "machine_system": 2,
+        "machine_msrp": 1,
+        "machine_version": 1,
+        "machine_toys": 1,
+        "machine_comments": 1,
+        "machine_tags": 1,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Special Edition Remake": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 1,
+        "artist_name": 1,
+        "software_name": 1,
+        "sound_name": 0,
+        "machine_credits": 1,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 1,
+        "machine_toys": 1,
+        "machine_comments": 0,
+        "machine_tags": 1,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Sr": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 1,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 1,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Standard": {
+      "machines": 4,
+      "fields": {
+        "designer_name": 4,
+        "artist_name": 2,
+        "software_name": 4,
+        "sound_name": 3,
+        "machine_credits": 4,
+        "machine_system": 4,
+        "machine_msrp": 0,
+        "machine_version": 2,
+        "machine_toys": 1,
+        "machine_comments": 3,
+        "machine_tags": 4,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Standard / unspecified": {
+      "machines": 2934,
+      "fields": {
+        "designer_name": 1681,
+        "artist_name": 1617,
+        "software_name": 473,
+        "sound_name": 415,
+        "machine_credits": 1891,
+        "machine_system": 1956,
+        "machine_msrp": 102,
+        "machine_version": 173,
+        "machine_toys": 643,
+        "machine_comments": 708,
+        "machine_tags": 1272,
+        "machine_resources": 967,
+        "rules_sheet_url": 20,
+        "image_high_res": 1584
+      }
+    },
+    "Standard Edition": {
+      "machines": 5,
+      "fields": {
+        "designer_name": 4,
+        "artist_name": 4,
+        "software_name": 5,
+        "sound_name": 5,
+        "machine_credits": 5,
+        "machine_system": 5,
+        "machine_msrp": 3,
+        "machine_version": 0,
+        "machine_toys": 1,
+        "machine_comments": 2,
+        "machine_tags": 5,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Standard Remake": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 1,
+        "artist_name": 1,
+        "software_name": 1,
+        "sound_name": 0,
+        "machine_credits": 1,
+        "machine_system": 1,
+        "machine_msrp": 1,
+        "machine_version": 1,
+        "machine_toys": 1,
+        "machine_comments": 0,
+        "machine_tags": 1,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Super LE": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 1,
+        "artist_name": 1,
+        "software_name": 1,
+        "sound_name": 1,
+        "machine_credits": 1,
+        "machine_system": 1,
+        "machine_msrp": 1,
+        "machine_version": 1,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 1,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "The Dark Knight": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 1,
+        "artist_name": 1,
+        "software_name": 1,
+        "sound_name": 1,
+        "machine_credits": 1,
+        "machine_system": 0,
+        "machine_msrp": 0,
+        "machine_version": 1,
+        "machine_toys": 1,
+        "machine_comments": 0,
+        "machine_tags": 1,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "The scoring machine": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 1,
+        "artist_name": 1,
+        "software_name": 0,
+        "sound_name": 0,
+        "machine_credits": 1,
+        "machine_system": 0,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 1,
+        "machine_comments": 1,
+        "machine_tags": 1,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Unidesa": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 1,
+        "artist_name": 0,
+        "software_name": 1,
+        "sound_name": 0,
+        "machine_credits": 1,
+        "machine_system": 0,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 1,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Victory Edition": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 1,
+        "artist_name": 1,
+        "software_name": 1,
+        "sound_name": 1,
+        "machine_credits": 1,
+        "machine_system": 1,
+        "machine_msrp": 1,
+        "machine_version": 1,
+        "machine_toys": 1,
+        "machine_comments": 0,
+        "machine_tags": 1,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Voyage Collector Edition": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 1,
+        "artist_name": 1,
+        "software_name": 0,
+        "sound_name": 1,
+        "machine_credits": 1,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 1,
+        "machine_comments": 0,
+        "machine_tags": 1,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "WWF": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 1,
+        "artist_name": 1,
+        "software_name": 1,
+        "sound_name": 1,
+        "machine_credits": 1,
+        "machine_system": 0,
+        "machine_msrp": 0,
+        "machine_version": 1,
+        "machine_toys": 0,
+        "machine_comments": 1,
+        "machine_tags": 1,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Wizard Edition": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 1,
+        "artist_name": 1,
+        "software_name": 1,
+        "sound_name": 1,
+        "machine_credits": 1,
+        "machine_system": 1,
+        "machine_msrp": 1,
+        "machine_version": 1,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 1,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Xtra Edition": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 1,
+        "artist_name": 0,
+        "software_name": 0,
+        "sound_name": 1,
+        "machine_credits": 1,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 1,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "Yellow Brick Road LE": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 1,
+        "artist_name": 1,
+        "software_name": 1,
+        "sound_name": 1,
+        "machine_credits": 1,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 1,
+        "machine_toys": 1,
+        "machine_comments": 0,
+        "machine_tags": 1,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "kit": {
+      "machines": 2,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 1,
+        "software_name": 2,
+        "sound_name": 2,
+        "machine_credits": 2,
+        "machine_system": 2,
+        "machine_msrp": 2,
+        "machine_version": 2,
+        "machine_toys": 2,
+        "machine_comments": 0,
+        "machine_tags": 0,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    },
+    "pro": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 1,
+        "artist_name": 1,
+        "software_name": 1,
+        "sound_name": 1,
+        "machine_credits": 1,
+        "machine_system": 1,
+        "machine_msrp": 1,
+        "machine_version": 1,
+        "machine_toys": 0,
+        "machine_comments": 1,
+        "machine_tags": 1,
+        "machine_resources": 1,
+        "rules_sheet_url": 1,
+        "image_high_res": 1
+      }
+    },
+    "redemption game": {
+      "machines": 1,
+      "fields": {
+        "designer_name": 0,
+        "artist_name": 0,
+        "software_name": 1,
+        "sound_name": 1,
+        "machine_credits": 1,
+        "machine_system": 1,
+        "machine_msrp": 0,
+        "machine_version": 0,
+        "machine_toys": 0,
+        "machine_comments": 0,
+        "machine_tags": 1,
+        "machine_resources": 0,
+        "rules_sheet_url": 0,
+        "image_high_res": 0
+      }
+    }
+  },
+  "source_states": {
+    "Pinside catalog / present": 49666,
+    "Pinside catalog / unknown": 27530,
+    "Pinside details / unknown": 21448,
+    "Pinside details / present": 13895,
+    "Pinside details / not_checked": 6866,
+    "OPDB / unmatched": 1477,
+    "Pinside details / not_listed": 5942,
+    "OPDB / present": 2899,
+    "Previous snapshot / unverified": 2743,
+    "OPDB / stable_opdb_id": 1739,
+    "Pinside details / fetch_failed": 2
+  },
+  "conflicting_fields": {
+    "machine_credits": 1274,
+    "machine_toys": 210,
+    "machine_comments": 313,
+    "software_name": 83,
+    "artist_name": 161,
+    "machine_videomode": 192,
+    "machine_ornament": 74,
+    "sound_name": 67,
+    "designer_name": 95,
+    "machine_version": 17
+  },
+  "regressions": [],
+  "detail_failures": [
+    {
+      "machine_key": 2669,
+      "machine_name": "\"300\"",
+      "slug": 300,
+      "source_url": "https://pinside.com/pinball/machine/300/details",
+      "error": "Response identifies a different machine: expected 2669, got [300].",
+      "attempted_at": "2026-11-05T19:18:12.241901+00:00"
+    },
+    {
+      "machine_key": 2796,
+      "machine_name": 21000,
+      "slug": 21000,
+      "source_url": "https://pinside.com/pinball/machine/21000/details",
+      "error": "Response is not a recognized machine detail page; refusing to cache it.",
+      "attempted_at": "2026-11-05T19:27:01.324187+00:00"
+    }
+  ]
+}
