@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-05T19:29:06.939599+00:00",
+  "generated_at": "2026-11-06T00:31:42.165607+00:00",
   "overall": {
     "machines": 3216,
     "fields": {
@@ -17,7 +17,8 @@
       "machine_tags": 1508,
       "machine_resources": 1046,
       "rules_sheet_url": 86,
-      "image_high_res": 1662
+      "image_high_res": 3101,
+      "machine_images": 3100
     }
   },
   "by_manufacturer": {
@@ -37,7 +38,8 @@
         "machine_tags": 1,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "A. J. Stephens ": {
@@ -56,7 +58,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "A.A. Amusements": {
@@ -75,7 +78,8 @@
         "machine_tags": 1,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 1
+        "image_high_res": 3,
+        "machine_images": 3
       }
     },
     "A.B.T.": {
@@ -94,7 +98,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "A.M.I.": {
@@ -113,7 +118,8 @@
         "machine_tags": 1,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 5
+        "image_high_res": 8,
+        "machine_images": 8
       }
     },
     "Achille et Chalvignac": {
@@ -132,7 +138,8 @@
         "machine_tags": 1,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Ad-Lee": {
@@ -151,7 +158,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Alben": {
@@ -170,7 +178,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 1
+        "image_high_res": 2,
+        "machine_images": 2
       }
     },
     "Allcoin": {
@@ -189,7 +198,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 0,
+        "machine_images": 0
       }
     },
     "Allied Leisure": {
@@ -208,7 +218,8 @@
         "machine_tags": 9,
         "machine_resources": 2,
         "rules_sheet_url": 0,
-        "image_high_res": 14
+        "image_high_res": 15,
+        "machine_images": 15
       }
     },
     "Alvin G. & Co": {
@@ -227,7 +238,8 @@
         "machine_tags": 12,
         "machine_resources": 3,
         "rules_sheet_url": 0,
-        "image_high_res": 7
+        "image_high_res": 14,
+        "machine_images": 14
       }
     },
     "American Pinball": {
@@ -246,7 +258,8 @@
         "machine_tags": 11,
         "machine_resources": 2,
         "rules_sheet_url": 2,
-        "image_high_res": 2
+        "image_high_res": 13,
+        "machine_images": 13
       }
     },
     "Amusement Co.": {
@@ -265,7 +278,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Angel Montano": {
@@ -284,7 +298,8 @@
         "machine_tags": 1,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Apple Time": {
@@ -303,7 +318,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 1
+        "image_high_res": 2,
+        "machine_images": 2
       }
     },
     "Arkon": {
@@ -322,7 +338,8 @@
         "machine_tags": 3,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 3,
+        "machine_images": 3
       }
     },
     "Assa": {
@@ -341,7 +358,8 @@
         "machine_tags": 1,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Astro Games": {
@@ -360,7 +378,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 1
+        "image_high_res": 2,
+        "machine_images": 2
       }
     },
     "Atari": {
@@ -379,7 +398,8 @@
         "machine_tags": 6,
         "machine_resources": 6,
         "rules_sheet_url": 0,
-        "image_high_res": 10
+        "image_high_res": 14,
+        "machine_images": 14
       }
     },
     "Automatic Industries": {
@@ -398,7 +418,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 2,
+        "machine_images": 2
       }
     },
     "Automaticos": {
@@ -417,7 +438,8 @@
         "machine_tags": 2,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 17,
+        "machine_images": 17
       }
     },
     "B. Holderman": {
@@ -436,7 +458,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "BEM": {
@@ -455,7 +478,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Baker Novelty": {
@@ -474,7 +498,8 @@
         "machine_tags": 2,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 3,
+        "machine_images": 3
       }
     },
     "Bally": {
@@ -493,7 +518,8 @@
         "machine_tags": 199,
         "machine_resources": 180,
         "rules_sheet_url": 0,
-        "image_high_res": 192
+        "image_high_res": 418,
+        "machine_images": 418
       }
     },
     "Bally Wuff": {
@@ -512,7 +538,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 9,
+        "machine_images": 9
       }
     },
     "Bandai Namco": {
@@ -531,7 +558,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Barni": {
@@ -550,7 +578,8 @@
         "machine_tags": 1,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 1
+        "image_high_res": 3,
+        "machine_images": 3
       }
     },
     "Barrels of Fun": {
@@ -569,7 +598,8 @@
         "machine_tags": 3,
         "machine_resources": 3,
         "rules_sheet_url": 3,
-        "image_high_res": 3
+        "image_high_res": 4,
+        "machine_images": 4
       }
     },
     "Bell Coin Matic": {
@@ -588,7 +618,8 @@
         "machine_tags": 2,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 4,
+        "machine_images": 4
       }
     },
     "Bell Games": {
@@ -607,7 +638,8 @@
         "machine_tags": 5,
         "machine_resources": 3,
         "rules_sheet_url": 0,
-        "image_high_res": 10
+        "image_high_res": 24,
+        "machine_images": 24
       }
     },
     "Benchmark": {
@@ -626,7 +658,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Betco Products": {
@@ -645,7 +678,8 @@
         "machine_tags": 1,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Bill Port": {
@@ -664,7 +698,8 @@
         "machine_tags": 1,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Bingo Novelty": {
@@ -683,7 +718,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Bob Nies": {
@@ -702,7 +738,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Briarwood": {
@@ -721,7 +758,8 @@
         "machine_tags": 1,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 6,
+        "machine_images": 6
       }
     },
     "Bromley": {
@@ -740,7 +778,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Brunswick": {
@@ -759,7 +798,8 @@
         "machine_tags": 2,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 6,
+        "machine_images": 6
       }
     },
     "Buckley": {
@@ -778,7 +818,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 2,
+        "machine_images": 2
       }
     },
     "BuffyPinball": {
@@ -797,7 +838,8 @@
         "machine_tags": 1,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Bumper Amusements": {
@@ -816,7 +858,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "C.E.A.": {
@@ -835,7 +878,8 @@
         "machine_tags": 1,
         "machine_resources": 1,
         "rules_sheet_url": 0,
-        "image_high_res": 5
+        "image_high_res": 6,
+        "machine_images": 6
       }
     },
     "COA ": {
@@ -854,7 +898,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "CPR": {
@@ -873,7 +918,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 4,
+        "machine_images": 4
       }
     },
     "California Exhibit": {
@@ -892,7 +938,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "California Games": {
@@ -911,7 +958,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Capcom": {
@@ -930,7 +978,8 @@
         "machine_tags": 8,
         "machine_resources": 5,
         "rules_sheet_url": 1,
-        "image_high_res": 6
+        "image_high_res": 8,
+        "machine_images": 8
       }
     },
     "Cardona Pinball Designs": {
@@ -949,7 +998,8 @@
         "machine_tags": 1,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 3,
+        "machine_images": 3
       }
     },
     "Centralmatic": {
@@ -968,7 +1018,8 @@
         "machine_tags": 1,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 3,
+        "machine_images": 3
       }
     },
     "Centromatic": {
@@ -987,7 +1038,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 4,
+        "machine_images": 4
       }
     },
     "Chicago Coin": {
@@ -1006,7 +1058,8 @@
         "machine_tags": 44,
         "machine_resources": 28,
         "rules_sheet_url": 0,
-        "image_high_res": 59
+        "image_high_res": 91,
+        "machine_images": 91
       }
     },
     "Chicago Gaming Co.": {
@@ -1025,7 +1078,8 @@
         "machine_tags": 17,
         "machine_resources": 2,
         "rules_sheet_url": 0,
-        "image_high_res": 2
+        "image_high_res": 18,
+        "machine_images": 18
       }
     },
     "Cic Play": {
@@ -1044,7 +1098,8 @@
         "machine_tags": 1,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 2
+        "image_high_res": 3,
+        "machine_images": 3
       }
     },
     "Circus Maximus": {
@@ -1063,7 +1118,8 @@
         "machine_tags": 2,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 2,
+        "machine_images": 2
       }
     },
     "Cisco": {
@@ -1082,7 +1138,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 1
+        "image_high_res": 2,
+        "machine_images": 2
       }
     },
     "Clint Jarrett": {
@@ -1101,7 +1158,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Coffee Mat": {
@@ -1120,7 +1178,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 1
+        "image_high_res": 3,
+        "machine_images": 3
       }
     },
     "Coincraft": {
@@ -1139,7 +1198,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 0,
+        "machine_images": 0
       }
     },
     "Como": {
@@ -1158,7 +1218,8 @@
         "machine_tags": 1,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Comptoir Industrial": {
@@ -1177,7 +1238,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Creative Products": {
@@ -1196,7 +1258,8 @@
         "machine_tags": 1,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Culp": {
@@ -1215,7 +1278,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "DPX": {
@@ -1234,7 +1298,8 @@
         "machine_tags": 1,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Data East": {
@@ -1253,7 +1318,8 @@
         "machine_tags": 30,
         "machine_resources": 24,
         "rules_sheet_url": 1,
-        "image_high_res": 24
+        "image_high_res": 40,
+        "machine_images": 40
       }
     },
     "Daval": {
@@ -1272,7 +1338,8 @@
         "machine_tags": 1,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 6,
+        "machine_images": 6
       }
     },
     "Day One Pinball": {
@@ -1291,7 +1358,8 @@
         "machine_tags": 1,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Deeproot": {
@@ -1310,7 +1378,8 @@
         "machine_tags": 2,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 2,
+        "machine_images": 2
       }
     },
     "Deluxia Studios": {
@@ -1329,7 +1398,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Dudley-Clark": {
@@ -1348,7 +1418,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Dudouit Fils": {
@@ -1367,7 +1438,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Dutch Pinball": {
@@ -1386,7 +1458,8 @@
         "machine_tags": 4,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 4,
+        "machine_images": 4
       }
     },
     "E.A.S.": {
@@ -1405,7 +1478,8 @@
         "machine_tags": 1,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 2,
+        "machine_images": 2
       }
     },
     "E.G.S.": {
@@ -1424,7 +1498,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 0,
+        "machine_images": 0
       }
     },
     "Elbos": {
@@ -1443,7 +1518,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 1
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Electro-Ball Company": {
@@ -1462,7 +1538,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Elwin": {
@@ -1481,7 +1558,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Europlay": {
@@ -1500,7 +1578,8 @@
         "machine_tags": 3,
         "machine_resources": 3,
         "rules_sheet_url": 0,
-        "image_high_res": 7
+        "image_high_res": 18,
+        "machine_images": 18
       }
     },
     "Exhibit": {
@@ -1519,7 +1598,8 @@
         "machine_tags": 7,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 11
+        "image_high_res": 30,
+        "machine_images": 30
       }
     },
     "Fabulous Fantasies": {
@@ -1538,7 +1618,8 @@
         "machine_tags": 1,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Fascination Game": {
@@ -1557,7 +1638,8 @@
         "machine_tags": 3,
         "machine_resources": 3,
         "rules_sheet_url": 0,
-        "image_high_res": 3
+        "image_high_res": 3,
+        "machine_images": 3
       }
     },
     "Fipermatic": {
@@ -1576,7 +1658,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 2,
+        "machine_images": 2
       }
     },
     "Fischer": {
@@ -1595,7 +1678,8 @@
         "machine_tags": 1,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "For Amusement Only Games": {
@@ -1614,7 +1698,8 @@
         "machine_tags": 2,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 5,
+        "machine_images": 5
       }
     },
     "Förster": {
@@ -1633,7 +1718,8 @@
         "machine_tags": 1,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 2,
+        "machine_images": 2
       }
     },
     "G. M. Laboratories": {
@@ -1652,7 +1738,8 @@
         "machine_tags": 1,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Game Plan": {
@@ -1671,7 +1758,8 @@
         "machine_tags": 20,
         "machine_resources": 11,
         "rules_sheet_url": 0,
-        "image_high_res": 13
+        "image_high_res": 23,
+        "machine_images": 23
       }
     },
     "Gameez": {
@@ -1690,7 +1778,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Geiger": {
@@ -1709,7 +1798,8 @@
         "machine_tags": 3,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 11,
+        "machine_images": 11
       }
     },
     "Genco": {
@@ -1728,7 +1818,8 @@
         "machine_tags": 22,
         "machine_resources": 1,
         "rules_sheet_url": 0,
-        "image_high_res": 22
+        "image_high_res": 71,
+        "machine_images": 71
       }
     },
     "Giorgio Massiniero": {
@@ -1747,7 +1838,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 1
+        "image_high_res": 3,
+        "machine_images": 3
       }
     },
     "Giuliano Lodola": {
@@ -1766,7 +1858,8 @@
         "machine_tags": 2,
         "machine_resources": 3,
         "rules_sheet_url": 0,
-        "image_high_res": 3
+        "image_high_res": 8,
+        "machine_images": 8
       }
     },
     "Gottlieb": {
@@ -1785,7 +1878,8 @@
         "machine_tags": 279,
         "machine_resources": 309,
         "rules_sheet_url": 1,
-        "image_high_res": 453
+        "image_high_res": 527,
+        "machine_images": 527
       }
     },
     "Grand Products": {
@@ -1804,7 +1898,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "H. B. Jackson": {
@@ -1823,7 +1918,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "HEP": {
@@ -1842,7 +1938,8 @@
         "machine_tags": 1,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "HEXA Pinball": {
@@ -1861,7 +1958,8 @@
         "machine_tags": 3,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 1
+        "image_high_res": 3,
+        "machine_images": 3
       }
     },
     "HYC": {
@@ -1880,7 +1978,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Haggis": {
@@ -1899,7 +1998,8 @@
         "machine_tags": 5,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 5,
+        "machine_images": 5
       }
     },
     "Hanilamatic": {
@@ -1918,7 +2018,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 4,
+        "machine_images": 4
       }
     },
     "Hankin": {
@@ -1937,7 +2038,8 @@
         "machine_tags": 4,
         "machine_resources": 2,
         "rules_sheet_url": 0,
-        "image_high_res": 4
+        "image_high_res": 5,
+        "machine_images": 5
       }
     },
     "Headsup Pinball": {
@@ -1956,7 +2058,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Heighway Pinball": {
@@ -1975,7 +2078,8 @@
         "machine_tags": 3,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 1
+        "image_high_res": 3,
+        "machine_images": 3
       }
     },
     "Hercules Novelty Co.": {
@@ -1994,7 +2098,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 2,
+        "machine_images": 2
       }
     },
     "Homebrew": {
@@ -2013,7 +2118,8 @@
         "machine_tags": 5,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 16,
+        "machine_images": 16
       }
     },
     "Homepin": {
@@ -2032,7 +2138,8 @@
         "machine_tags": 3,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 1
+        "image_high_res": 4,
+        "machine_images": 4
       }
     },
     "Hungarian PBM": {
@@ -2051,7 +2158,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 2,
+        "machine_images": 2
       }
     },
     "I.D.I.": {
@@ -2070,7 +2178,8 @@
         "machine_tags": 1,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 4,
+        "machine_images": 4
       }
     },
     "ICE": {
@@ -2089,7 +2198,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "IDSA": {
@@ -2108,7 +2218,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 1
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Ian Harrower Games": {
@@ -2127,7 +2238,8 @@
         "machine_tags": 2,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 2,
+        "machine_images": 2
       }
     },
     "Illinois Pin Ball": {
@@ -2146,7 +2258,8 @@
         "machine_tags": 2,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 2,
+        "machine_images": 2
       }
     },
     "Immersive Pinball": {
@@ -2165,7 +2278,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 2,
+        "machine_images": 2
       }
     },
     "In and Outdoor Games Co.": {
@@ -2184,7 +2298,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Inder": {
@@ -2203,7 +2318,8 @@
         "machine_tags": 12,
         "machine_resources": 1,
         "rules_sheet_url": 0,
-        "image_high_res": 25
+        "image_high_res": 35,
+        "machine_images": 35
       }
     },
     "Innovative Concepts": {
@@ -2222,7 +2338,8 @@
         "machine_tags": 1,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Interflip": {
@@ -2241,7 +2358,8 @@
         "machine_tags": 1,
         "machine_resources": 2,
         "rules_sheet_url": 0,
-        "image_high_res": 2
+        "image_high_res": 6,
+        "machine_images": 6
       }
     },
     "International": {
@@ -2260,7 +2378,8 @@
         "machine_tags": 2,
         "machine_resources": 1,
         "rules_sheet_url": 0,
-        "image_high_res": 2
+        "image_high_res": 2,
+        "machine_images": 2
       }
     },
     "Irwin Pinball": {
@@ -2279,7 +2398,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Jac Van Ham": {
@@ -2298,7 +2418,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 1
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Jake Danzig": {
@@ -2317,7 +2438,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Jersey Jack": {
@@ -2336,7 +2458,8 @@
         "machine_tags": 26,
         "machine_resources": 5,
         "rules_sheet_url": 5,
-        "image_high_res": 3
+        "image_high_res": 29,
+        "machine_images": 29
       }
     },
     "Jeutel": {
@@ -2355,7 +2478,8 @@
         "machine_tags": 1,
         "machine_resources": 1,
         "rules_sheet_url": 0,
-        "image_high_res": 6
+        "image_high_res": 8,
+        "machine_images": 8
       }
     },
     "Joctronic": {
@@ -2374,7 +2498,8 @@
         "machine_tags": 1,
         "machine_resources": 1,
         "rules_sheet_url": 0,
-        "image_high_res": 2
+        "image_high_res": 4,
+        "machine_images": 4
       }
     },
     "Juegos Populares": {
@@ -2393,7 +2518,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 5
+        "image_high_res": 9,
+        "machine_images": 9
       }
     },
     "K.A.": {
@@ -2412,7 +2538,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "K.C. Tabart": {
@@ -2431,7 +2558,8 @@
         "machine_tags": 2,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 4,
+        "machine_images": 4
       }
     },
     "Keeney": {
@@ -2450,7 +2578,8 @@
         "machine_tags": 4,
         "machine_resources": 2,
         "rules_sheet_url": 0,
-        "image_high_res": 4
+        "image_high_res": 21,
+        "machine_images": 21
       }
     },
     "Koala": {
@@ -2469,7 +2598,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 3,
+        "machine_images": 3
       }
     },
     "Komplett": {
@@ -2488,7 +2618,8 @@
         "machine_tags": 1,
         "machine_resources": 1,
         "rules_sheet_url": 0,
-        "image_high_res": 1
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Komputer Dynamics": {
@@ -2507,7 +2638,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 1
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Kurt Savage": {
@@ -2526,7 +2658,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 2,
+        "machine_images": 2
       }
     },
     "LTD": {
@@ -2545,7 +2678,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 1
+        "image_high_res": 15,
+        "machine_images": 14
       }
     },
     "Leeoneil": {
@@ -2564,7 +2698,8 @@
         "machine_tags": 1,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Lincoln Manufacturing": {
@@ -2583,7 +2718,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Lundick": {
@@ -2602,7 +2738,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "M. Redgrave": {
@@ -2621,7 +2758,8 @@
         "machine_tags": 2,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 0,
+        "machine_images": 0
       }
     },
     "M.Baker + B.Holderman": {
@@ -2640,7 +2778,8 @@
         "machine_tags": 1,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "MOcean": {
@@ -2659,7 +2798,8 @@
         "machine_tags": 1,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Maguinas / Mac Pinball": {
@@ -2678,7 +2818,8 @@
         "machine_tags": 1,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 2
+        "image_high_res": 6,
+        "machine_images": 6
       }
     },
     "Mali": {
@@ -2697,7 +2838,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 2,
+        "machine_images": 2
       }
     },
     "Mambelli": {
@@ -2716,7 +2858,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Maresa": {
@@ -2735,7 +2878,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 3,
+        "machine_images": 3
       }
     },
     "MarkInc": {
@@ -2754,7 +2898,8 @@
         "machine_tags": 1,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Marsa Play": {
@@ -2773,7 +2918,8 @@
         "machine_tags": 1,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 1
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Martina": {
@@ -2792,7 +2938,8 @@
         "machine_tags": 3,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 19,
+        "machine_images": 19
       }
     },
     "Marvel Chicago": {
@@ -2811,7 +2958,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 3,
+        "machine_images": 3
       }
     },
     "Matt Malone": {
@@ -2830,7 +2978,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 2,
+        "machine_images": 2
       }
     },
     "Mattel": {
@@ -2849,7 +2998,8 @@
         "machine_tags": 1,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Michael Mandola": {
@@ -2868,7 +3018,8 @@
         "machine_tags": 1,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Micropin Corp.": {
@@ -2887,7 +3038,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 2,
+        "machine_images": 2
       }
     },
     "Midway": {
@@ -2906,7 +3058,8 @@
         "machine_tags": 5,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 4
+        "image_high_res": 14,
+        "machine_images": 14
       }
     },
     "Mills": {
@@ -2925,7 +3078,8 @@
         "machine_tags": 2,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 6,
+        "machine_images": 6
       }
     },
     "Mirco Games": {
@@ -2944,7 +3098,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 2
+        "image_high_res": 3,
+        "machine_images": 3
       }
     },
     "Mondialmatic": {
@@ -2963,7 +3118,8 @@
         "machine_tags": 3,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 3
+        "image_high_res": 8,
+        "machine_images": 8
       }
     },
     "Mr Game": {
@@ -2982,7 +3138,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 4
+        "image_high_res": 4,
+        "machine_images": 4
       }
     },
     "Multimorphic": {
@@ -3001,7 +3158,8 @@
         "machine_tags": 15,
         "machine_resources": 3,
         "rules_sheet_url": 3,
-        "image_high_res": 9
+        "image_high_res": 17,
+        "machine_images": 17
       }
     },
     "N/A": {
@@ -3020,7 +3178,8 @@
         "machine_tags": 4,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 5,
+        "machine_images": 5
       }
     },
     "Nordamatic": {
@@ -3039,7 +3198,8 @@
         "machine_tags": 5,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 9
+        "image_high_res": 9,
+        "machine_images": 9
       }
     },
     "Nsm": {
@@ -3058,7 +3218,8 @@
         "machine_tags": 1,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 2
+        "image_high_res": 5,
+        "machine_images": 5
       }
     },
     "O. D. Jennings": {
@@ -3077,7 +3238,8 @@
         "machine_tags": 3,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 5,
+        "machine_images": 5
       }
     },
     "PAMCO": {
@@ -3096,7 +3258,8 @@
         "machine_tags": 1,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 3,
+        "machine_images": 3
       }
     },
     "Pace": {
@@ -3115,7 +3278,8 @@
         "machine_tags": 1,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 2,
+        "machine_images": 2
       }
     },
     "Pedretti Gaming": {
@@ -3134,7 +3298,8 @@
         "machine_tags": 4,
         "machine_resources": 1,
         "rules_sheet_url": 0,
-        "image_high_res": 1
+        "image_high_res": 6,
+        "machine_images": 6
       }
     },
     "Peo": {
@@ -3153,7 +3318,8 @@
         "machine_tags": 1,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 3,
+        "machine_images": 3
       }
     },
     "Petaco": {
@@ -3172,7 +3338,8 @@
         "machine_tags": 3,
         "machine_resources": 4,
         "rules_sheet_url": 0,
-        "image_high_res": 6
+        "image_high_res": 8,
+        "machine_images": 8
       }
     },
     "Peyper": {
@@ -3191,7 +3358,8 @@
         "machine_tags": 1,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 3
+        "image_high_res": 6,
+        "machine_images": 6
       }
     },
     "Phénix Pinball": {
@@ -3210,7 +3378,8 @@
         "machine_tags": 1,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Pierce": {
@@ -3229,7 +3398,8 @@
         "machine_tags": 1,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Pin Ball": {
@@ -3248,7 +3418,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 0,
+        "machine_images": 0
       }
     },
     "PinBall ReBorn": {
@@ -3267,7 +3438,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Pinball Adventures": {
@@ -3286,7 +3458,8 @@
         "machine_tags": 2,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 2,
+        "machine_images": 2
       }
     },
     "Pinball Amigos": {
@@ -3305,7 +3478,8 @@
         "machine_tags": 1,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Pinball Brothers": {
@@ -3324,7 +3498,8 @@
         "machine_tags": 7,
         "machine_resources": 1,
         "rules_sheet_url": 1,
-        "image_high_res": 1
+        "image_high_res": 8,
+        "machine_images": 8
       }
     },
     "Pinball Shop Italy": {
@@ -3343,7 +3518,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Pinball Tycoon": {
@@ -3362,7 +3538,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Pinball Vision": {
@@ -3381,7 +3558,8 @@
         "machine_tags": 1,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Pinball-Mods.com": {
@@ -3400,7 +3578,8 @@
         "machine_tags": 1,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "PinballWill": {
@@ -3419,7 +3598,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Pinnovating & Koop Kustoms": {
@@ -3438,7 +3618,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Pinside Pinball Inc.": {
@@ -3457,7 +3638,8 @@
         "machine_tags": 1,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Pinstar": {
@@ -3476,7 +3658,8 @@
         "machine_tags": 1,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 2,
+        "machine_images": 2
       }
     },
     "Playbar": {
@@ -3495,7 +3678,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 1
+        "image_high_res": 2,
+        "machine_images": 2
       }
     },
     "Playmatic": {
@@ -3514,7 +3698,8 @@
         "machine_tags": 15,
         "machine_resources": 18,
         "rules_sheet_url": 0,
-        "image_high_res": 49
+        "image_high_res": 67,
+        "machine_images": 67
       }
     },
     "Playmec Flippers": {
@@ -3533,7 +3718,8 @@
         "machine_tags": 2,
         "machine_resources": 1,
         "rules_sheet_url": 0,
-        "image_high_res": 2
+        "image_high_res": 2,
+        "machine_images": 2
       }
     },
     "Procedimientos Electromagnéticos": {
@@ -3552,7 +3738,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Professional": {
@@ -3571,7 +3758,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Proma": {
@@ -3590,7 +3778,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 0,
+        "machine_images": 0
       }
     },
     "Quetzal Pinball": {
@@ -3609,7 +3798,8 @@
         "machine_tags": 2,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 3,
+        "machine_images": 3
       }
     },
     "R.M.G": {
@@ -3628,7 +3818,8 @@
         "machine_tags": 0,
         "machine_resources": 1,
         "rules_sheet_url": 0,
-        "image_high_res": 1
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Rally": {
@@ -3647,7 +3838,8 @@
         "machine_tags": 6,
         "machine_resources": 1,
         "rules_sheet_url": 0,
-        "image_high_res": 21
+        "image_high_res": 22,
+        "machine_images": 22
       }
     },
     "Ranco": {
@@ -3666,7 +3858,8 @@
         "machine_tags": 1,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Rebellion Pinball": {
@@ -3685,7 +3878,8 @@
         "machine_tags": 1,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 1
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Recel": {
@@ -3704,7 +3898,8 @@
         "machine_tags": 7,
         "machine_resources": 12,
         "rules_sheet_url": 0,
-        "image_high_res": 27
+        "image_high_res": 35,
+        "machine_images": 35
       }
     },
     "Recreativos Franco": {
@@ -3723,7 +3918,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 3,
+        "machine_images": 3
       }
     },
     "Recreativos Garcia": {
@@ -3742,7 +3938,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Recreativos Invermatic": {
@@ -3761,7 +3958,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Red Baron Amusements": {
@@ -3780,7 +3978,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 0,
+        "machine_images": 0
       }
     },
     "Regama": {
@@ -3799,7 +3998,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Retro Arcade": {
@@ -3818,7 +4018,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Retro Pinball": {
@@ -3837,7 +4038,8 @@
         "machine_tags": 1,
         "machine_resources": 1,
         "rules_sheet_url": 0,
-        "image_high_res": 1
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Riot Pinball": {
@@ -3856,7 +4058,8 @@
         "machine_tags": 2,
         "machine_resources": 1,
         "rules_sheet_url": 1,
-        "image_high_res": 2
+        "image_high_res": 2,
+        "machine_images": 2
       }
     },
     "Rockola": {
@@ -3875,7 +4078,8 @@
         "machine_tags": 5,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 13,
+        "machine_images": 13
       }
     },
     "Rotordave": {
@@ -3894,7 +4098,8 @@
         "machine_tags": 1,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 2,
+        "machine_images": 2
       }
     },
     "Royal": {
@@ -3913,7 +4118,8 @@
         "machine_tags": 1,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 2,
+        "machine_images": 2
       }
     },
     "Ryan McQuaid ": {
@@ -3932,7 +4138,8 @@
         "machine_tags": 1,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Ryan Soppe Homebrew": {
@@ -3951,7 +4158,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Ryan Zlomek": {
@@ -3970,7 +4178,8 @@
         "machine_tags": 1,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "SIRMO": {
@@ -3989,7 +4198,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 4,
+        "machine_images": 4
       }
     },
     "Scientific Machine Corporation": {
@@ -4008,7 +4218,8 @@
         "machine_tags": 1,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 2,
+        "machine_images": 2
       }
     },
     "Sega": {
@@ -4027,7 +4238,8 @@
         "machine_tags": 31,
         "machine_resources": 16,
         "rules_sheet_url": 0,
-        "image_high_res": 17
+        "image_high_res": 43,
+        "machine_images": 43
       }
     },
     "Segasa-Sonic": {
@@ -4046,7 +4258,8 @@
         "machine_tags": 12,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 35,
+        "machine_images": 35
       }
     },
     "Sentinel": {
@@ -4065,7 +4278,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Serge Wesoly": {
@@ -4084,7 +4298,8 @@
         "machine_tags": 1,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Skit-B Pinball": {
@@ -4103,7 +4318,8 @@
         "machine_tags": 1,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 1
+        "image_high_res": 5,
+        "machine_images": 5
       }
     },
     "Sleic": {
@@ -4122,7 +4338,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 4
+        "image_high_res": 4,
+        "machine_images": 4
       }
     },
     "Soc. Elettrogiochi": {
@@ -4141,7 +4358,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Southland Engineering": {
@@ -4160,7 +4378,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Spinball": {
@@ -4179,7 +4398,8 @@
         "machine_tags": 1,
         "machine_resources": 2,
         "rules_sheet_url": 0,
-        "image_high_res": 2
+        "image_high_res": 3,
+        "machine_images": 3
       }
     },
     "Spooky Pinball": {
@@ -4198,7 +4418,8 @@
         "machine_tags": 26,
         "machine_resources": 2,
         "rules_sheet_url": 2,
-        "image_high_res": 4
+        "image_high_res": 26,
+        "machine_images": 26
       }
     },
     "Sportmatic": {
@@ -4217,7 +4438,8 @@
         "machine_tags": 2,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 1
+        "image_high_res": 3,
+        "machine_images": 3
       }
     },
     "Staal": {
@@ -4236,7 +4458,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 2
+        "image_high_res": 2,
+        "machine_images": 2
       }
     },
     "Standard": {
@@ -4255,7 +4478,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Standard Amusement Co.": {
@@ -4274,7 +4498,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Stefan Mader": {
@@ -4293,7 +4518,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 6,
+        "machine_images": 6
       }
     },
     "Stern": {
@@ -4312,7 +4538,8 @@
         "machine_tags": 187,
         "machine_resources": 96,
         "rules_sheet_url": 65,
-        "image_high_res": 98
+        "image_high_res": 198,
+        "machine_images": 198
       }
     },
     "Stern Electronics": {
@@ -4331,7 +4558,8 @@
         "machine_tags": 29,
         "machine_resources": 30,
         "rules_sheet_url": 0,
-        "image_high_res": 31
+        "image_high_res": 41,
+        "machine_images": 41
       }
     },
     "Stoner": {
@@ -4350,7 +4578,8 @@
         "machine_tags": 5,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 10,
+        "machine_images": 10
       }
     },
     "Suncoast": {
@@ -4369,7 +4598,8 @@
         "machine_tags": 1,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 1
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Taito": {
@@ -4388,7 +4618,8 @@
         "machine_tags": 3,
         "machine_resources": 2,
         "rules_sheet_url": 0,
-        "image_high_res": 5
+        "image_high_res": 41,
+        "machine_images": 41
       }
     },
     "Talleres": {
@@ -4407,7 +4638,8 @@
         "machine_tags": 1,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Team Pinball": {
@@ -4426,7 +4658,8 @@
         "machine_tags": 1,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Tecnoplay": {
@@ -4445,7 +4678,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 5
+        "image_high_res": 5,
+        "machine_images": 5
       }
     },
     "The Best": {
@@ -4464,7 +4698,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 0,
+        "machine_images": 0
       }
     },
     "Treasure Cove": {
@@ -4483,7 +4718,8 @@
         "machine_tags": 1,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Trident Pinball": {
@@ -4502,7 +4738,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Trilogy Brewing co.": {
@@ -4521,7 +4758,8 @@
         "machine_tags": 1,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 2,
+        "machine_images": 2
       }
     },
     "Turner Pinball": {
@@ -4540,7 +4778,8 @@
         "machine_tags": 4,
         "machine_resources": 1,
         "rules_sheet_url": 0,
-        "image_high_res": 1
+        "image_high_res": 4,
+        "machine_images": 4
       }
     },
     "UP Pinball": {
@@ -4559,7 +4798,8 @@
         "machine_tags": 2,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 2,
+        "machine_images": 2
       }
     },
     "Unidesa": {
@@ -4578,7 +4818,8 @@
         "machine_tags": 2,
         "machine_resources": 1,
         "rules_sheet_url": 0,
-        "image_high_res": 5
+        "image_high_res": 10,
+        "machine_images": 10
       }
     },
     "United": {
@@ -4597,7 +4838,8 @@
         "machine_tags": 14,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 11
+        "image_high_res": 66,
+        "machine_images": 66
       }
     },
     "Universal": {
@@ -4616,7 +4858,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 1
+        "image_high_res": 3,
+        "machine_images": 3
       }
     },
     "Unknown": {
@@ -4635,7 +4878,8 @@
         "machine_tags": 2,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 4,
+        "machine_images": 4
       }
     },
     "Valley": {
@@ -4654,7 +4898,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 1
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Valley-Dynamo": {
@@ -4673,7 +4918,8 @@
         "machine_tags": 2,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 2,
+        "machine_images": 2
       }
     },
     "Venture Line": {
@@ -4692,7 +4938,8 @@
         "machine_tags": 1,
         "machine_resources": 1,
         "rules_sheet_url": 0,
-        "image_high_res": 1
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Victory Games": {
@@ -4711,7 +4958,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Videodens": {
@@ -4730,7 +4978,8 @@
         "machine_tags": 0,
         "machine_resources": 1,
         "rules_sheet_url": 0,
-        "image_high_res": 1
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Viza Manufacturing": {
@@ -4749,7 +4998,8 @@
         "machine_tags": 2,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 1
+        "image_high_res": 2,
+        "machine_images": 2
       }
     },
     "WA Pinball": {
@@ -4768,7 +5018,8 @@
         "machine_tags": 1,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Western Equipment": {
@@ -4787,7 +5038,8 @@
         "machine_tags": 1,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Whirlpool": {
@@ -4806,7 +5058,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "WhizBang Pinball": {
@@ -4825,7 +5078,8 @@
         "machine_tags": 2,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 2,
+        "machine_images": 2
       }
     },
     "Wico": {
@@ -4844,7 +5098,8 @@
         "machine_tags": 1,
         "machine_resources": 1,
         "rules_sheet_url": 0,
-        "image_high_res": 1
+        "image_high_res": 2,
+        "machine_images": 2
       }
     },
     "Williams": {
@@ -4863,7 +5118,8 @@
         "machine_tags": 200,
         "machine_resources": 220,
         "rules_sheet_url": 1,
-        "image_high_res": 354
+        "image_high_res": 434,
+        "machine_images": 434
       }
     },
     "Willy Michiels": {
@@ -4882,7 +5138,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 3,
+        "machine_images": 3
       }
     },
     "Wolfmarsh": {
@@ -4901,7 +5158,8 @@
         "machine_tags": 1,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Wonderland Amusements": {
@@ -4920,7 +5178,8 @@
         "machine_tags": 1,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Zaccaria": {
@@ -4939,7 +5198,8 @@
         "machine_tags": 31,
         "machine_resources": 24,
         "rules_sheet_url": 0,
-        "image_high_res": 39
+        "image_high_res": 45,
+        "machine_images": 45
       }
     },
     "Zachary Frey": {
@@ -4958,7 +5218,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Zidware Pinball USA": {
@@ -4977,7 +5238,8 @@
         "machine_tags": 2,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 4,
+        "machine_images": 4
       }
     },
     "kindofabigneil Games": {
@@ -4996,7 +5258,8 @@
         "machine_tags": 2,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 2,
+        "machine_images": 2
       }
     },
     "surlyoldpunk": {
@@ -5015,7 +5278,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     }
   },
@@ -5036,7 +5300,8 @@
         "machine_tags": 2,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 0,
+        "machine_images": 0
       }
     },
     "1930s": {
@@ -5055,7 +5320,8 @@
         "machine_tags": 46,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 185,
+        "machine_images": 185
       }
     },
     "1940s": {
@@ -5074,7 +5340,8 @@
         "machine_tags": 61,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 63
+        "image_high_res": 187,
+        "machine_images": 187
       }
     },
     "1950s": {
@@ -5093,7 +5360,8 @@
         "machine_tags": 119,
         "machine_resources": 17,
         "rules_sheet_url": 0,
-        "image_high_res": 247
+        "image_high_res": 363,
+        "machine_images": 363
       }
     },
     "1960s": {
@@ -5112,7 +5380,8 @@
         "machine_tags": 164,
         "machine_resources": 218,
         "rules_sheet_url": 0,
-        "image_high_res": 307
+        "image_high_res": 440,
+        "machine_images": 440
       }
     },
     "1970s": {
@@ -5131,7 +5400,8 @@
         "machine_tags": 331,
         "machine_resources": 370,
         "rules_sheet_url": 0,
-        "image_high_res": 482
+        "image_high_res": 759,
+        "machine_images": 759
       }
     },
     "1980s": {
@@ -5150,7 +5420,8 @@
         "machine_tags": 240,
         "machine_resources": 202,
         "rules_sheet_url": 2,
-        "image_high_res": 291
+        "image_high_res": 487,
+        "machine_images": 486
       }
     },
     "1990s": {
@@ -5169,7 +5440,8 @@
         "machine_tags": 160,
         "machine_resources": 121,
         "rules_sheet_url": 2,
-        "image_high_res": 138
+        "image_high_res": 202,
+        "machine_images": 202
       }
     },
     "2000s": {
@@ -5188,7 +5460,8 @@
         "machine_tags": 38,
         "machine_resources": 21,
         "rules_sheet_url": 3,
-        "image_high_res": 22
+        "image_high_res": 50,
+        "machine_images": 50
       }
     },
     "2010s": {
@@ -5207,7 +5480,8 @@
         "machine_tags": 170,
         "machine_resources": 63,
         "rules_sheet_url": 47,
-        "image_high_res": 74
+        "image_high_res": 192,
+        "machine_images": 192
       }
     },
     "2020s": {
@@ -5226,7 +5500,8 @@
         "machine_tags": 177,
         "machine_resources": 34,
         "rules_sheet_url": 32,
-        "image_high_res": 38
+        "image_high_res": 236,
+        "machine_images": 236
       }
     }
   },
@@ -5247,7 +5522,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "2023 remake": {
@@ -5266,7 +5542,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "2nd": {
@@ -5285,7 +5562,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "2nd Version 1984": {
@@ -5304,7 +5582,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "30th Anniversary LE": {
@@ -5323,7 +5602,8 @@
         "machine_tags": 1,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "30th Anniversary Remake": {
@@ -5342,7 +5622,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "38, New Style": {
@@ -5361,7 +5642,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "4-digit-Test-Sample": {
@@ -5380,7 +5662,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "40th anniversary edition": {
@@ -5399,7 +5682,8 @@
         "machine_tags": 1,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "50th Anniversary Premium": {
@@ -5418,7 +5702,8 @@
         "machine_tags": 1,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "60th LE": {
@@ -5437,7 +5722,8 @@
         "machine_tags": 1,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "70th Anniversary Premium": {
@@ -5456,7 +5742,8 @@
         "machine_tags": 1,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "75th Anniversary Edition": {
@@ -5475,7 +5762,8 @@
         "machine_tags": 1,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Add-a-Ball": {
@@ -5494,7 +5782,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Arcade Edition": {
@@ -5513,7 +5802,8 @@
         "machine_tags": 2,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 3,
+        "machine_images": 3
       }
     },
     "Arrival Limited Edition": {
@@ -5532,7 +5822,8 @@
         "machine_tags": 1,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Bad Mother Flipper LE": {
@@ -5551,7 +5842,8 @@
         "machine_tags": 1,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Beast Edition": {
@@ -5570,7 +5862,8 @@
         "machine_tags": 1,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Black Test-Sample": {
@@ -5589,7 +5882,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Blood Red Kiss Edition": {
@@ -5608,7 +5902,8 @@
         "machine_tags": 1,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Blood Sucker Edition": {
@@ -5627,7 +5922,8 @@
         "machine_tags": 4,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 4,
+        "machine_images": 4
       }
     },
     "Blood Suckers Edition": {
@@ -5646,7 +5942,8 @@
         "machine_tags": 2,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 2,
+        "machine_images": 2
       }
     },
     "CE": {
@@ -5665,7 +5962,8 @@
         "machine_tags": 7,
         "machine_resources": 2,
         "rules_sheet_url": 2,
-        "image_high_res": 1
+        "image_high_res": 7,
+        "machine_images": 7
       }
     },
     "Champions Edition": {
@@ -5684,7 +5982,8 @@
         "machine_tags": 1,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Classic": {
@@ -5703,7 +6002,8 @@
         "machine_tags": 1,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Classic Edition": {
@@ -5722,7 +6022,8 @@
         "machine_tags": 2,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 2,
+        "machine_images": 2
       }
     },
     "Classic Edition Remake": {
@@ -5741,7 +6042,8 @@
         "machine_tags": 1,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Collector's Edition": {
@@ -5760,7 +6062,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Collectors Edition": {
@@ -5779,7 +6082,8 @@
         "machine_tags": 6,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 6,
+        "machine_images": 6
       }
     },
     "Deluxe": {
@@ -5798,7 +6102,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Deluxe Edition": {
@@ -5817,7 +6122,8 @@
         "machine_tags": 1,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Deluxe Senior": {
@@ -5836,7 +6142,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 0,
+        "machine_images": 0
       }
     },
     "Diamond Edition": {
@@ -5855,7 +6162,8 @@
         "machine_tags": 1,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "EM version": {
@@ -5874,7 +6182,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Ellen Ripley Version": {
@@ -5893,7 +6202,8 @@
         "machine_tags": 1,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Emerald City Limited Edition": {
@@ -5912,7 +6222,8 @@
         "machine_tags": 1,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Empire Home Edition": {
@@ -5931,7 +6242,8 @@
         "machine_tags": 1,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Engraved Edition": {
@@ -5950,7 +6262,8 @@
         "machine_tags": 1,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Export": {
@@ -5969,7 +6282,8 @@
         "machine_tags": 1,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Export-Model": {
@@ -5988,7 +6302,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Fiberglass Prototype": {
@@ -6007,7 +6322,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Gold Edition": {
@@ -6026,7 +6342,8 @@
         "machine_tags": 1,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Green Test-Sample": {
@@ -6045,7 +6362,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Heighway Pinball": {
@@ -6064,7 +6382,8 @@
         "machine_tags": 1,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Home Edition": {
@@ -6083,7 +6402,8 @@
         "machine_tags": 6,
         "machine_resources": 2,
         "rules_sheet_url": 2,
-        "image_high_res": 2
+        "image_high_res": 6,
+        "machine_images": 6
       }
     },
     "Home Edition Plus": {
@@ -6102,7 +6422,8 @@
         "machine_tags": 1,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Home Plus": {
@@ -6121,7 +6442,8 @@
         "machine_tags": 1,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Italy": {
@@ -6140,7 +6462,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Jesus Edition": {
@@ -6159,7 +6482,8 @@
         "machine_tags": 1,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Jr": {
@@ -6178,7 +6502,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Junior": {
@@ -6197,7 +6522,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 3,
+        "machine_images": 3
       }
     },
     "Kit": {
@@ -6216,7 +6542,8 @@
         "machine_tags": 1,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "LE": {
@@ -6235,7 +6562,8 @@
         "machine_tags": 42,
         "machine_resources": 18,
         "rules_sheet_url": 15,
-        "image_high_res": 17
+        "image_high_res": 44,
+        "machine_images": 44
       }
     },
     "LE Remake": {
@@ -6254,7 +6582,8 @@
         "machine_tags": 1,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Legacy Edition Remake": {
@@ -6273,7 +6602,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Legendary Edition": {
@@ -6292,7 +6622,8 @@
         "machine_tags": 1,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 1
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Legends of Wrestlemania": {
@@ -6311,7 +6642,8 @@
         "machine_tags": 1,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Limited Edition": {
@@ -6330,7 +6662,8 @@
         "machine_tags": 9,
         "machine_resources": 1,
         "rules_sheet_url": 1,
-        "image_high_res": 1
+        "image_high_res": 9,
+        "machine_images": 9
       }
     },
     "Limited Rhapsody Edition": {
@@ -6349,7 +6682,8 @@
         "machine_tags": 1,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Limited Version": {
@@ -6368,7 +6702,8 @@
         "machine_tags": 1,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Master": {
@@ -6387,7 +6722,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Merlin Edition": {
@@ -6406,7 +6742,8 @@
         "machine_tags": 1,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Mermaid Edition": {
@@ -6425,7 +6762,8 @@
         "machine_tags": 1,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Model 44": {
@@ -6444,7 +6782,8 @@
         "machine_tags": 1,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Model B": {
@@ -6463,7 +6802,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Orblivion Edition": {
@@ -6482,7 +6822,8 @@
         "machine_tags": 1,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Platinum Edition": {
@@ -6501,7 +6842,8 @@
         "machine_tags": 2,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 2,
+        "machine_images": 2
       }
     },
     "Premium": {
@@ -6520,7 +6862,8 @@
         "machine_tags": 38,
         "machine_resources": 15,
         "rules_sheet_url": 13,
-        "image_high_res": 15
+        "image_high_res": 40,
+        "machine_images": 40
       }
     },
     "Premium Edition": {
@@ -6539,7 +6882,8 @@
         "machine_tags": 1,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Premium Vault Edition": {
@@ -6558,7 +6902,8 @@
         "machine_tags": 1,
         "machine_resources": 1,
         "rules_sheet_url": 0,
-        "image_high_res": 1
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Pro": {
@@ -6577,7 +6922,8 @@
         "machine_tags": 39,
         "machine_resources": 35,
         "rules_sheet_url": 32,
-        "image_high_res": 35
+        "image_high_res": 40,
+        "machine_images": 40
       }
     },
     "Pro Vault Edition": {
@@ -6596,7 +6942,8 @@
         "machine_tags": 2,
         "machine_resources": 1,
         "rules_sheet_url": 0,
-        "image_high_res": 1
+        "image_high_res": 2,
+        "machine_images": 2
       }
     },
     "Red Model": {
@@ -6615,7 +6962,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Remake": {
@@ -6634,7 +6982,8 @@
         "machine_tags": 1,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Remake - Classic": {
@@ -6653,7 +7002,8 @@
         "machine_tags": 1,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Remake - LE": {
@@ -6672,7 +7022,8 @@
         "machine_tags": 3,
         "machine_resources": 1,
         "rules_sheet_url": 0,
-        "image_high_res": 1
+        "image_high_res": 3,
+        "machine_images": 3
       }
     },
     "Remake - Special": {
@@ -6691,7 +7042,8 @@
         "machine_tags": 1,
         "machine_resources": 1,
         "rules_sheet_url": 0,
-        "image_high_res": 1
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Remake - Special Edition": {
@@ -6710,7 +7062,8 @@
         "machine_tags": 1,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Remake - Special Edition Plus": {
@@ -6729,7 +7082,8 @@
         "machine_tags": 1,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Royal Edition Remake": {
@@ -6748,7 +7102,8 @@
         "machine_tags": 1,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Rudy's Nightmare": {
@@ -6767,7 +7122,8 @@
         "machine_tags": 1,
         "machine_resources": 1,
         "rules_sheet_url": 0,
-        "image_high_res": 1
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "SE": {
@@ -6786,7 +7142,8 @@
         "machine_tags": 3,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 3,
+        "machine_images": 3
       }
     },
     "Senior": {
@@ -6805,7 +7162,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Signature Edition": {
@@ -6824,7 +7182,8 @@
         "machine_tags": 1,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Solid State": {
@@ -6843,7 +7202,8 @@
         "machine_tags": 1,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 6,
+        "machine_images": 6
       }
     },
     "Special": {
@@ -6862,7 +7222,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Special Edition": {
@@ -6881,7 +7242,8 @@
         "machine_tags": 1,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 2,
+        "machine_images": 2
       }
     },
     "Special Edition Remake": {
@@ -6900,7 +7262,8 @@
         "machine_tags": 1,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Sr": {
@@ -6919,7 +7282,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Standard": {
@@ -6938,7 +7302,8 @@
         "machine_tags": 4,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 4,
+        "machine_images": 4
       }
     },
     "Standard / unspecified": {
@@ -6957,7 +7322,8 @@
         "machine_tags": 1272,
         "machine_resources": 967,
         "rules_sheet_url": 20,
-        "image_high_res": 1584
+        "image_high_res": 2823,
+        "machine_images": 2822
       }
     },
     "Standard Edition": {
@@ -6976,7 +7342,8 @@
         "machine_tags": 5,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 5,
+        "machine_images": 5
       }
     },
     "Standard Remake": {
@@ -6995,7 +7362,8 @@
         "machine_tags": 1,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Super LE": {
@@ -7014,7 +7382,8 @@
         "machine_tags": 1,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "The Dark Knight": {
@@ -7033,7 +7402,8 @@
         "machine_tags": 1,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "The scoring machine": {
@@ -7052,7 +7422,8 @@
         "machine_tags": 1,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Unidesa": {
@@ -7071,7 +7442,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Victory Edition": {
@@ -7090,7 +7462,8 @@
         "machine_tags": 1,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Voyage Collector Edition": {
@@ -7109,7 +7482,8 @@
         "machine_tags": 1,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "WWF": {
@@ -7128,7 +7502,8 @@
         "machine_tags": 1,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Wizard Edition": {
@@ -7147,7 +7522,8 @@
         "machine_tags": 1,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Xtra Edition": {
@@ -7166,7 +7542,8 @@
         "machine_tags": 1,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "Yellow Brick Road LE": {
@@ -7185,7 +7562,8 @@
         "machine_tags": 1,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "kit": {
@@ -7204,7 +7582,8 @@
         "machine_tags": 0,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 2,
+        "machine_images": 2
       }
     },
     "pro": {
@@ -7223,7 +7602,8 @@
         "machine_tags": 1,
         "machine_resources": 1,
         "rules_sheet_url": 1,
-        "image_high_res": 1
+        "image_high_res": 1,
+        "machine_images": 1
       }
     },
     "redemption game": {
@@ -7242,7 +7622,8 @@
         "machine_tags": 1,
         "machine_resources": 0,
         "rules_sheet_url": 0,
-        "image_high_res": 0
+        "image_high_res": 1,
+        "machine_images": 1
       }
     }
   },
@@ -7251,27 +7632,43 @@
     "Pinside catalog / unknown": 27530,
     "Pinside details / unknown": 21448,
     "Pinside details / present": 13895,
-    "Pinside details / not_checked": 6866,
+    "Pinside details / not_checked": 5429,
+    "Pinside gallery / present": 4539,
     "OPDB / unmatched": 1477,
     "Pinside details / not_listed": 5942,
+    "Pinside gallery / not_listed": 114,
     "OPDB / present": 2899,
     "Previous snapshot / unverified": 2743,
     "OPDB / stable_opdb_id": 1739,
-    "Pinside details / fetch_failed": 2
+    "Pinside details / fetch_failed": 2,
+    "Pinside gallery / fetch_failed": 2
   },
   "conflicting_fields": {
-    "machine_credits": 1274,
     "machine_toys": 210,
     "machine_comments": 313,
-    "software_name": 83,
-    "artist_name": 161,
     "machine_videomode": 192,
     "machine_ornament": 74,
-    "sound_name": 67,
-    "designer_name": 95,
     "machine_version": 17
   },
   "regressions": [],
+  "gallery_failures": [
+    {
+      "machine_key": 2669,
+      "machine_name": "\"300\"",
+      "slug": 300,
+      "source_url": "https://pinside.com/pinball/machine/300/gallery",
+      "attempted_at": "2026-11-06T00:09:08.002727+00:00",
+      "error": "Gallery canonical URL identifies a different machine."
+    },
+    {
+      "machine_key": 2796,
+      "machine_name": 21000,
+      "slug": 21000,
+      "source_url": "https://pinside.com/pinball/machine/21000/gallery",
+      "attempted_at": "2026-11-06T00:27:41.805927+00:00",
+      "error": "Response is not a recognized machine image gallery."
+    }
+  ],
   "detail_failures": [
     {
       "machine_key": 2669,
@@ -7279,7 +7676,7 @@
       "slug": 300,
       "source_url": "https://pinside.com/pinball/machine/300/details",
       "error": "Response identifies a different machine: expected 2669, got [300].",
-      "attempted_at": "2026-11-05T19:18:12.241901+00:00"
+      "attempted_at": "2026-11-05T21:04:37.561262+00:00"
     },
     {
       "machine_key": 2796,
@@ -7287,7 +7684,7 @@
       "slug": 21000,
       "source_url": "https://pinside.com/pinball/machine/21000/details",
       "error": "Response is not a recognized machine detail page; refusing to cache it.",
-      "attempted_at": "2026-11-05T19:27:01.324187+00:00"
+      "attempted_at": "2026-11-05T21:04:37.955613+00:00"
     }
   ]
 }

@@ -1,25 +1,24 @@
 {
-  "version": 1793906947,
-  "last_updated": "2026-11-05T19:29:07Z",
+  "version": 1793925104,
+  "last_updated": "2026-11-06T00:31:44Z",
   "machine_count": 3216,
   "db_filename": "pinside_database.db",
-  "file_size_bytes": 55336960,
-  "sha256": "c16637d3ce44e871afa80f433f37f88648188060cbe528cf077b3b45caec3ec4",
+  "file_size_bytes": 84996096,
+  "sha256": "130730111b6cbdf9c0086725a130aa98b934a0574c2d576e5cd2499f88cbd54a",
   "schema_version": 2,
-  "catalog_sha256": "c93506eadbef3b06a8f9df604737a2a7d3489532bb3ca9fe09665c9eec3ec827",
-  "quality_report_sha256": "aaab968d620b6649990e423b0c290849f8ac1e760e9ba678f31821d8007d099b",
-  "source_catalog_fetched_at": "2026-11-05T16:52:09.126508+00:00",
+  "catalog_sha256": "9432f4f59f186b3759e0013283d9c87f80589bf6b02bfe8785bd6e03b0fa19cd",
+  "quality_report_sha256": "d11cc71b933f15f78cd6ee4f5501760502a4d3bdb284d3883b62ceeebfa44a7e",
+  "source_catalog_fetched_at": "2026-11-05T21:04:33.594528+00:00",
   "details": {
-    "fetched": 647,
+    "fetched": 0,
     "cached_machines_applied": 3214,
     "accounted_machines": 3216,
     "remaining_due": 0,
-    "mode": "full_with_errors",
+    "mode": "adaptive_with_errors",
     "refresh_reasons": {
-      "new_or_renamed": 648,
-      "retry_failed_page": 1
+      "retry_failed_page": 2
     },
-    "reused_machines": 2567,
+    "reused_machines": 3214,
     "failed_machines": 2,
     "failures": [
       {
@@ -28,7 +27,7 @@
         "slug": 300,
         "source_url": "https://pinside.com/pinball/machine/300/details",
         "error": "Response identifies a different machine: expected 2669, got [300].",
-        "attempted_at": "2026-11-05T19:18:12.241901+00:00"
+        "attempted_at": "2026-11-05T21:04:37.561262+00:00"
       },
       {
         "machine_key": 2796,
@@ -36,9 +35,34 @@
         "slug": 21000,
         "source_url": "https://pinside.com/pinball/machine/21000/details",
         "error": "Response is not a recognized machine detail page; refusing to cache it.",
-        "attempted_at": "2026-11-05T19:27:01.324187+00:00"
+        "attempted_at": "2026-11-05T21:04:37.955613+00:00"
       }
     ],
-    "fresh_machines": 3214
+    "fresh_machines": null
+  },
+  "galleries": {
+    "fetched": 655,
+    "cached_machines_applied": 3214,
+    "remaining_due": 0,
+    "failed_machines": 2,
+    "failures": [
+      {
+        "machine_key": 2669,
+        "machine_name": "\"300\"",
+        "slug": 300,
+        "source_url": "https://pinside.com/pinball/machine/300/gallery",
+        "attempted_at": "2026-11-06T00:09:08.002727+00:00",
+        "error": "Gallery canonical URL identifies a different machine."
+      },
+      {
+        "machine_key": 2796,
+        "machine_name": 21000,
+        "slug": 21000,
+        "source_url": "https://pinside.com/pinball/machine/21000/gallery",
+        "attempted_at": "2026-11-06T00:27:41.805927+00:00",
+        "error": "Response is not a recognized machine image gallery."
+      }
+    ],
+    "image_files_downloaded": 0
   }
 }
