@@ -17,4 +17,5 @@ build/
 # Python & Data Cache
 __pycache__/
 *.pyc
+/*.py
 opdb-v2.json
